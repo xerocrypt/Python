@@ -1,0 +1,12 @@
+README
+
+The source in this package is for GUI rendering only. This provides the container into which other 
+functions will be dropped as we develop them.
+
+== REQUIREMENTS ==
+* Python interpreter (obviously)
+* PythonCard
+* Distutils
+
+== CHANGES ==
+Added README, installer script and MANIFEST.IN. These aren't finished yet.
