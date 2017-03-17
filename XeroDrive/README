@@ -1,0 +1,27 @@
+=== README ===
+Developed in Python, using the curses API, the XeroDrive data erasure and recoverytool is a front-end for the dd and foremost forensic programs.
+
+
+Prerequisites:
+* The program must/should be run as root.
+* Ensure that dd and foremost are installed on the system.
+
+
+Usage:
+1. Ensure the correct name of the target volume has been determined before running the program.
+2. As root, cd to the directory containing the XeroDrive executable, and use the following to run:
+# ./XeroDrive
+
+
+Data Erasure
+XeroDrive uses dd to overwrite the target filesystem with random bytes piped from /dev/urandom. This should fully wipe the filesystem, but it doesn't prevent data recovery using file carving techniques in some cases. For that, the process must be repeated several times.
+
+
+Volume Imaging
+When attempting to recover data from a volume, it should be imaged first. XeroDrive will create a byte-for-byte copy of the volume and generate a file called 'xerodrive-image.img' in the destination directory.
+
+
+Data Recovery
+XeroDrive will use file carving to reconstruct whatever files it can find in an image file. This is an effective technique against accidental deletion and even some disk-wiping programs. The recovered files will appear in 'xerodrive-recover[timestamp]', and a log file called 'recoverylog.txt' will be generated.
+
+
