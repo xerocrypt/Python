@@ -6,5 +6,5 @@ setup(name='GUI Application',
 	version='0.1',
 	description='Generic installable GUI application template',
 	author='Michael',
-	author_email='michael@ipv6secure.co.uk',
+	author_email='michael@email.com',
 	py_modules=['gui-application'])
