@@ -1,0 +1,3069 @@
+Entity,Code,Day,people_in_hospital
+England,,2020-03-20,1580
+England,,2020-03-21,2152
+England,,2020-03-22,2670
+England,,2020-03-23,3183
+England,,2020-03-24,3598
+England,,2020-03-25,4402
+England,,2020-03-26,5226
+England,,2020-03-27,6462
+England,,2020-03-28,7269
+England,,2020-03-29,8424
+England,,2020-03-30,9852
+England,,2020-03-31,11154
+England,,2020-04-01,12059
+England,,2020-04-02,12135
+England,,2020-04-03,13635
+England,,2020-04-04,15469
+England,,2020-04-05,16657
+England,,2020-04-06,17154
+England,,2020-04-07,17814
+England,,2020-04-08,18152
+England,,2020-04-09,18423
+England,,2020-04-10,18669
+England,,2020-04-11,18604
+England,,2020-04-12,18974
+England,,2020-04-13,18621
+England,,2020-04-14,18552
+England,,2020-04-15,17934
+England,,2020-04-16,17783
+England,,2020-04-17,16728
+England,,2020-04-18,16850
+England,,2020-04-19,16928
+England,,2020-04-20,16654
+England,,2020-04-21,16517
+England,,2020-04-22,16018
+England,,2020-04-23,15402
+England,,2020-04-24,14642
+England,,2020-04-25,14202
+England,,2020-04-26,14174
+England,,2020-04-27,14255
+England,,2020-04-28,13565
+England,,2020-04-29,13224
+England,,2020-04-30,12922
+England,,2020-05-01,12623
+England,,2020-05-02,12314
+England,,2020-05-03,12119
+England,,2020-05-04,12020
+England,,2020-05-05,11754
+England,,2020-05-06,11227
+England,,2020-05-07,10726
+England,,2020-05-08,10249
+England,,2020-05-09,10176
+England,,2020-05-10,9893
+England,,2020-05-11,10109
+England,,2020-05-12,9791
+England,,2020-05-13,9602
+England,,2020-05-14,9231
+England,,2020-05-15,9079
+England,,2020-05-16,8643
+England,,2020-05-17,8611
+England,,2020-05-18,8668
+England,,2020-05-19,8518
+England,,2020-05-20,8115
+England,,2020-05-21,7903
+England,,2020-05-22,7761
+England,,2020-05-23,7428
+England,,2020-05-24,7415
+England,,2020-05-25,7448
+England,,2020-05-26,7305
+England,,2020-05-27,6836
+England,,2020-05-28,6528
+England,,2020-05-29,6250
+England,,2020-05-30,5972
+England,,2020-05-31,5933
+England,,2020-06-01,5954
+England,,2020-06-02,5827
+England,,2020-06-03,5600
+England,,2020-06-04,5398
+England,,2020-06-05,5213
+England,,2020-06-06,5004
+England,,2020-06-07,4820
+England,,2020-06-08,4830
+England,,2020-06-09,4665
+England,,2020-06-10,4447
+England,,2020-06-11,4179
+England,,2020-06-12,4136
+England,,2020-06-13,4000
+England,,2020-06-14,3973
+England,,2020-06-15,3920
+England,,2020-06-16,3934
+England,,2020-06-17,3826
+England,,2020-06-18,3681
+England,,2020-06-19,3575
+England,,2020-06-20,3423
+England,,2020-06-21,3373
+England,,2020-06-22,3417
+England,,2020-06-23,3288
+England,,2020-06-24,3223
+England,,2020-06-25,3066
+England,,2020-06-26,2859
+England,,2020-06-27,2819
+England,,2020-06-28,2818
+England,,2020-06-29,3024
+England,,2020-06-30,2665
+England,,2020-07-01,2509
+England,,2020-07-02,2410
+England,,2020-07-03,2294
+England,,2020-07-04,2152
+England,,2020-07-05,2100
+England,,2020-07-06,2099
+England,,2020-07-07,2010
+England,,2020-07-08,1888
+England,,2020-07-09,1801
+England,,2020-07-10,1746
+England,,2020-07-11,1640
+England,,2020-07-12,1611
+England,,2020-07-13,1612
+England,,2020-07-14,1506
+England,,2020-07-15,1489
+England,,2020-07-16,1348
+England,,2020-07-17,1346
+England,,2020-07-18,1321
+England,,2020-07-19,1301
+England,,2020-07-20,1278
+England,,2020-07-21,1188
+England,,2020-07-22,1305
+England,,2020-07-23,1095
+England,,2020-07-24,1018
+England,,2020-07-25,977
+England,,2020-07-26,965
+England,,2020-07-27,945
+England,,2020-07-28,944
+England,,2020-07-29,927
+England,,2020-07-30,898
+England,,2020-07-31,870
+England,,2020-08-01,879
+England,,2020-08-02,847
+England,,2020-08-03,842
+England,,2020-08-04,807
+England,,2020-08-05,805
+England,,2020-08-06,756
+England,,2020-08-07,711
+England,,2020-08-08,650
+England,,2020-08-09,611
+England,,2020-08-10,714
+England,,2020-08-11,672
+England,,2020-08-12,642
+England,,2020-08-13,652
+England,,2020-08-14,642
+England,,2020-08-15,630
+England,,2020-08-16,634
+England,,2020-08-17,626
+England,,2020-08-18,597
+England,,2020-08-19,571
+England,,2020-08-20,551
+England,,2020-08-21,528
+England,,2020-08-22,594
+England,,2020-08-23,522
+England,,2020-08-24,522
+England,,2020-08-25,500
+England,,2020-08-26,485
+England,,2020-08-27,492
+England,,2020-08-28,469
+England,,2020-08-29,478
+England,,2020-08-30,479
+England,,2020-08-31,495
+England,,2020-09-01,496
+England,,2020-09-02,451
+England,,2020-09-03,468
+England,,2020-09-04,474
+England,,2020-09-05,471
+England,,2020-09-06,483
+England,,2020-09-07,555
+England,,2020-09-08,535
+England,,2020-09-09,557
+England,,2020-09-10,572
+England,,2020-09-11,622
+England,,2020-09-12,663
+England,,2020-09-13,691
+England,,2020-09-14,812
+England,,2020-09-15,891
+England,,2020-09-16,929
+England,,2020-09-17,984
+England,,2020-09-18,1020
+England,,2020-09-19,1081
+England,,2020-09-20,1174
+England,,2020-09-21,1299
+England,,2020-09-22,1378
+England,,2020-09-23,1439
+England,,2020-09-24,1546
+England,,2020-09-25,1686
+England,,2020-09-26,1689
+England,,2020-09-27,1793
+England,,2020-09-28,1955
+England,,2020-09-29,1954
+England,,2020-09-30,2036
+England,,2020-10-01,2069
+England,,2020-10-02,2180
+England,,2020-10-03,2290
+England,,2020-10-04,2435
+England,,2020-10-05,2705
+England,,2020-10-06,2903
+England,,2020-10-07,3066
+England,,2020-10-08,3179
+England,,2020-10-09,3238
+England,,2020-10-10,3369
+England,,2020-10-11,3604
+England,,2020-10-12,3827
+England,,2020-10-13,4105
+England,,2020-10-14,4313
+England,,2020-10-15,4569
+England,,2020-10-16,4854
+England,,2020-10-17,5029
+England,,2020-10-18,5202
+England,,2020-10-19,5644
+England,,2020-10-20,6072
+England,,2020-10-21,6271
+England,,2020-10-22,6345
+England,,2020-10-23,6842
+England,,2020-10-24,7176
+England,,2020-10-25,7612
+England,,2020-10-26,7856
+England,,2020-10-27,8595
+England,,2020-10-28,9070
+England,,2020-10-29,9127
+England,,2020-10-30,9295
+England,,2020-10-31,9782
+England,,2020-11-01,9623
+England,,2020-11-02,10397
+England,,2020-11-03,10971
+England,,2020-11-04,11037
+England,,2020-11-05,10994
+England,,2020-11-06,11181
+England,,2020-11-07,11514
+England,,2020-11-08,11680
+England,,2020-11-09,12259
+England,,2020-11-10,12033
+England,,2020-11-11,12730
+England,,2020-11-12,12967
+England,,2020-11-13,13328
+England,,2020-11-14,13399
+England,,2020-11-15,13886
+England,,2020-11-16,14313
+England,,2020-11-17,14411
+England,,2020-11-18,14490
+England,,2020-11-19,14479
+England,,2020-11-20,14236
+England,,2020-11-21,14118
+England,,2020-11-22,14354
+England,,2020-11-23,14712
+England,,2020-11-24,14506
+England,,2020-11-25,14240
+England,,2020-11-26,13908
+England,,2020-11-27,13754
+England,,2020-11-28,13208
+England,,2020-11-29,13521
+England,,2020-11-30,13756
+England,,2020-12-01,13507
+England,,2020-12-02,13212
+England,,2020-12-03,12896
+England,,2020-12-04,12987
+England,,2020-12-05,12968
+England,,2020-12-06,13189
+England,,2020-12-07,13616
+England,,2020-12-08,13629
+England,,2020-12-09,13467
+England,,2020-12-10,13796
+England,,2020-12-11,13901
+England,,2020-12-12,13927
+England,,2020-12-13,14460
+England,,2020-12-14,15053
+England,,2020-12-15,15031
+England,,2020-12-16,15465
+England,,2020-12-17,15741
+England,,2020-12-18,15866
+England,,2020-12-19,16183
+England,,2020-12-20,16633
+England,,2020-12-21,17709
+England,,2020-12-22,18063
+England,,2020-12-23,17834
+England,,2020-12-24,18227
+England,,2020-12-25,17701
+England,,2020-12-26,18350
+England,,2020-12-27,19277
+England,,2020-12-28,20426
+England,,2020-12-29,21787
+England,,2020-12-30,22713
+England,,2020-12-31,22728
+England,,2021-01-01,22534
+England,,2021-01-02,23557
+England,,2021-01-03,24957
+England,,2021-01-04,26626
+England,,2021-01-05,26467
+England,,2021-01-06,27727
+England,,2021-01-07,28246
+England,,2021-01-08,29346
+England,,2021-01-09,29462
+England,,2021-01-10,30758
+England,,2021-01-11,32070
+England,,2021-01-12,32202
+England,,2021-01-13,32689
+England,,2021-01-14,32925
+England,,2021-01-15,33362
+England,,2021-01-16,32923
+England,,2021-01-17,33352
+England,,2021-01-18,34336
+England,,2021-01-19,34015
+England,,2021-01-20,33886
+England,,2021-01-21,33235
+England,,2021-01-22,33412
+England,,2021-01-23,32614
+England,,2021-01-24,32907
+England,,2021-01-25,32938
+England,,2021-01-26,32337
+England,,2021-01-27,30846
+England,,2021-01-28,30333
+England,,2021-01-29,29359
+England,,2021-01-30,28571
+England,,2021-01-31,28112
+England,,2021-02-01,28539
+England,,2021-02-02,27397
+England,,2021-02-03,26374
+England,,2021-02-04,25334
+England,,2021-02-05,24402
+England,,2021-02-06,23042
+England,,2021-02-07,22991
+England,,2021-02-08,23020
+England,,2021-02-09,22067
+England,,2021-02-10,20926
+England,,2021-02-11,19983
+England,,2021-02-12,19009
+England,,2021-02-13,17694
+England,,2021-02-14,17787
+England,,2021-02-15,17730
+England,,2021-02-16,17093
+England,,2021-02-17,16458
+England,,2021-02-18,15633
+England,,2021-02-19,15018
+England,,2021-02-20,14316
+England,,2021-02-21,14142
+England,,2021-02-22,14137
+England,,2021-02-23,13511
+England,,2021-02-24,13007
+England,,2021-02-25,12449
+England,,2021-02-26,11781
+England,,2021-02-27,11090
+England,,2021-02-28,10663
+England,,2021-03-01,10765
+England,,2021-03-02,10121
+England,,2021-03-03,9594
+England,,2021-03-04,9092
+England,,2021-03-05,8594
+England,,2021-03-06,8021
+England,,2021-03-07,7812
+England,,2021-03-08,7847
+England,,2021-03-09,7451
+England,,2021-03-10,6975
+England,,2021-03-11,6687
+England,,2021-03-12,6391
+England,,2021-03-13,6072
+England,,2021-03-14,6039
+England,,2021-03-15,5976
+England,,2021-03-16,5664
+England,,2021-03-17,5397
+England,,2021-03-18,5083
+England,,2021-03-19,4841
+England,,2021-03-20,4589
+England,,2021-03-21,4492
+England,,2021-03-22,4501
+England,,2021-03-23,4245
+England,,2021-03-24,4005
+England,,2021-03-25,3763
+England,,2021-03-26,3712
+England,,2021-03-27,3676
+England,,2021-03-28,3438
+England,,2021-03-29,3466
+England,,2021-03-30,3283
+England,,2021-03-31,3084
+England,,2021-04-01,2928
+England,,2021-04-02,2784
+England,,2021-04-03,2677
+England,,2021-04-04,2672
+England,,2021-04-05,2680
+England,,2021-04-06,2588
+England,,2021-04-07,2486
+England,,2021-04-08,2382
+England,,2021-04-09,2321
+England,,2021-04-10,2190
+England,,2021-04-11,2096
+England,,2021-04-12,2108
+England,,2021-04-13,2057
+England,,2021-04-14,1972
+England,,2021-04-15,1885
+England,,2021-04-16,1844
+England,,2021-04-17,1735
+England,,2021-04-18,1691
+England,,2021-04-19,1732
+England,,2021-04-20,1649
+England,,2021-04-21,1609
+England,,2021-04-22,1523
+England,,2021-04-23,1478
+England,,2021-04-24,1401
+England,,2021-04-25,1377
+England,,2021-04-26,1393
+England,,2021-04-27,1310
+England,,2021-04-28,1278
+England,,2021-04-29,1235
+England,,2021-04-30,1161
+England,,2021-05-01,1071
+England,,2021-05-02,1082
+England,,2021-05-03,1096
+England,,2021-05-04,1093
+England,,2021-05-05,1032
+England,,2021-05-06,976
+England,,2021-05-07,973
+England,,2021-05-08,948
+England,,2021-05-09,933
+England,,2021-05-10,944
+England,,2021-05-11,921
+England,,2021-05-12,907
+England,,2021-05-13,845
+England,,2021-05-14,818
+England,,2021-05-15,810
+England,,2021-05-16,801
+England,,2021-05-17,798
+England,,2021-05-18,749
+England,,2021-05-19,757
+England,,2021-05-20,749
+England,,2021-05-21,766
+England,,2021-05-22,730
+England,,2021-05-23,756
+England,,2021-05-24,797
+England,,2021-05-25,765
+England,,2021-05-26,745
+England,,2021-05-27,742
+England,,2021-05-28,743
+England,,2021-05-29,748
+England,,2021-05-30,755
+England,,2021-05-31,773
+England,,2021-06-01,776
+England,,2021-06-02,801
+England,,2021-06-03,779
+England,,2021-06-04,805
+England,,2021-06-05,782
+England,,2021-06-06,807
+England,,2021-06-07,860
+England,,2021-06-08,879
+England,,2021-06-09,876
+England,,2021-06-10,906
+England,,2021-06-11,884
+England,,2021-06-12,915
+England,,2021-06-13,947
+England,,2021-06-14,993
+England,,2021-06-15,1030
+England,,2021-06-16,1057
+England,,2021-06-17,1122
+England,,2021-06-18,1170
+England,,2021-06-19,1143
+England,,2021-06-20,1168
+England,,2021-06-21,1290
+England,,2021-06-22,1301
+England,,2021-06-23,1255
+England,,2021-06-24,1274
+England,,2021-06-25,1284
+England,,2021-06-26,1276
+England,,2021-06-27,1331
+England,,2021-06-28,1465
+England,,2021-06-29,1445
+England,,2021-06-30,1500
+England,,2021-07-01,1560
+England,,2021-07-02,1611
+England,,2021-07-03,1636
+England,,2021-07-04,1744
+England,,2021-07-05,1888
+England,,2021-07-06,1998
+England,,2021-07-07,2144
+England,,2021-07-08,2209
+England,,2021-07-09,2352
+England,,2021-07-10,2429
+England,,2021-07-11,2564
+England,,2021-07-12,2798
+England,,2021-07-13,2970
+England,,2021-07-14,3110
+England,,2021-07-15,3241
+England,,2021-07-16,3367
+England,,2021-07-17,3442
+England,,2021-07-18,3546
+England,,2021-07-19,3813
+England,,2021-07-20,3894
+England,,2021-07-21,4063
+England,,2021-07-22,4230
+England,,2021-07-23,4401
+England,,2021-07-24,4476
+England,,2021-07-25,4725
+England,,2021-07-26,5055
+England,,2021-07-27,5163
+England,,2021-07-28,5182
+England,,2021-07-29,5056
+England,,2021-07-30,5111
+England,,2021-07-31,5057
+England,,2021-08-01,5090
+England,,2021-08-02,5309
+England,,2021-08-03,5116
+England,,2021-08-04,4944
+England,,2021-08-05,4894
+England,,2021-08-06,4879
+England,,2021-08-07,4817
+England,,2021-08-08,4939
+England,,2021-08-09,5098
+England,,2021-08-10,5096
+England,,2021-08-11,5073
+England,,2021-08-12,5029
+England,,2021-08-13,5076
+England,,2021-08-14,4973
+England,,2021-08-15,5115
+England,,2021-08-16,5429
+England,,2021-08-17,5437
+England,,2021-08-18,5514
+England,,2021-08-19,5554
+England,,2021-08-20,5576
+England,,2021-08-21,5575
+England,,2021-08-22,5749
+England,,2021-08-23,6000
+England,,2021-08-24,5911
+England,,2021-08-25,5922
+England,,2021-08-26,5893
+England,,2021-08-27,5889
+England,,2021-08-28,5756
+England,,2021-08-29,5855
+England,,2021-08-30,6002
+England,,2021-08-31,6293
+England,,2021-09-01,6236
+England,,2021-09-02,6186
+England,,2021-09-03,6195
+England,,2021-09-04,6043
+England,,2021-09-05,6167
+England,,2021-09-06,6375
+England,,2021-09-07,6244
+England,,2021-09-08,6302
+England,,2021-09-09,6254
+England,,2021-09-10,6400
+England,,2021-09-11,6206
+England,,2021-09-12,6253
+England,,2021-09-13,6424
+England,,2021-09-14,6344
+England,,2021-09-15,6306
+England,,2021-09-16,6081
+England,,2021-09-17,5910
+England,,2021-09-18,5688
+England,,2021-09-19,5695
+England,,2021-09-20,5727
+England,,2021-09-21,5543
+England,,2021-09-22,5406
+England,,2021-09-23,5214
+England,,2021-09-24,5036
+England,,2021-09-25,5100
+England,,2021-09-26,4949
+England,,2021-09-27,5121
+England,,2021-09-28,5126
+England,,2021-09-29,5017
+England,,2021-09-30,4916
+England,,2021-10-01,4799
+England,,2021-10-02,4652
+England,,2021-10-03,4778
+England,,2021-10-04,4909
+England,,2021-10-05,5006
+England,,2021-10-06,5009
+England,,2021-10-07,4962
+England,,2021-10-08,4975
+England,,2021-10-09,4921
+England,,2021-10-10,5077
+England,,2021-10-11,5206
+England,,2021-10-12,5213
+England,,2021-10-13,5246
+England,,2021-10-14,5289
+England,,2021-10-15,5363
+England,,2021-10-16,5385
+England,,2021-10-17,5623
+England,,2021-10-18,5938
+England,,2021-10-19,6099
+England,,2021-10-20,6299
+England,,2021-10-21,6366
+England,,2021-10-22,6405
+England,,2021-10-23,6386
+England,,2021-10-24,6515
+England,,2021-10-25,6801
+England,,2021-10-26,6883
+England,,2021-10-27,6951
+England,,2021-10-28,7019
+England,,2021-10-29,7113
+England,,2021-10-30,7155
+England,,2021-10-31,7311
+England,,2021-11-01,7535
+England,,2021-11-02,7510
+England,,2021-11-03,7291
+England,,2021-11-04,7201
+England,,2021-11-05,7072
+England,,2021-11-06,6874
+England,,2021-11-07,6910
+England,,2021-11-08,7075
+England,,2021-11-09,7053
+England,,2021-11-10,6961
+England,,2021-11-11,6861
+England,,2021-11-12,6777
+England,,2021-11-13,6639
+England,,2021-11-14,6707
+England,,2021-11-15,6864
+England,,2021-11-16,6623
+England,,2021-11-17,6412
+England,,2021-11-18,6336
+England,,2021-11-19,6310
+England,,2021-11-20,6191
+England,,2021-11-21,6322
+England,,2021-11-22,6424
+England,,2021-11-23,6257
+England,,2021-11-24,6062
+England,,2021-11-25,6068
+Northern Ireland,,2020-03-12,28
+Northern Ireland,,2020-03-13,29
+Northern Ireland,,2020-03-14,31
+Northern Ireland,,2020-03-15,31
+Northern Ireland,,2020-03-16,35
+Northern Ireland,,2020-03-17,37
+Northern Ireland,,2020-03-18,43
+Northern Ireland,,2020-03-19,44
+Northern Ireland,,2020-03-20,56
+Northern Ireland,,2020-03-21,70
+Northern Ireland,,2020-03-22,77
+Northern Ireland,,2020-03-23,87
+Northern Ireland,,2020-03-24,94
+Northern Ireland,,2020-03-25,116
+Northern Ireland,,2020-03-26,140
+Northern Ireland,,2020-03-27,158
+Northern Ireland,,2020-03-28,188
+Northern Ireland,,2020-03-29,207
+Northern Ireland,,2020-03-30,227
+Northern Ireland,,2020-03-31,252
+Northern Ireland,,2020-04-01,280
+Northern Ireland,,2020-04-02,305
+Northern Ireland,,2020-04-03,306
+Northern Ireland,,2020-04-04,330
+Northern Ireland,,2020-04-05,330
+Northern Ireland,,2020-04-06,346
+Northern Ireland,,2020-04-07,354
+Northern Ireland,,2020-04-08,357
+Northern Ireland,,2020-04-09,347
+Northern Ireland,,2020-04-10,317
+Northern Ireland,,2020-04-11,318
+Northern Ireland,,2020-04-12,316
+Northern Ireland,,2020-04-13,308
+Northern Ireland,,2020-04-14,296
+Northern Ireland,,2020-04-15,278
+Northern Ireland,,2020-04-16,283
+Northern Ireland,,2020-04-17,290
+Northern Ireland,,2020-04-18,287
+Northern Ireland,,2020-04-19,298
+Northern Ireland,,2020-04-20,304
+Northern Ireland,,2020-04-21,312
+Northern Ireland,,2020-04-22,310
+Northern Ireland,,2020-04-23,301
+Northern Ireland,,2020-04-24,295
+Northern Ireland,,2020-04-25,298
+Northern Ireland,,2020-04-26,289
+Northern Ireland,,2020-04-27,286
+Northern Ireland,,2020-04-28,277
+Northern Ireland,,2020-04-29,270
+Northern Ireland,,2020-04-30,275
+Northern Ireland,,2020-05-01,269
+Northern Ireland,,2020-05-02,268
+Northern Ireland,,2020-05-03,264
+Northern Ireland,,2020-05-04,260
+Northern Ireland,,2020-05-05,243
+Northern Ireland,,2020-05-06,239
+Northern Ireland,,2020-05-07,231
+Northern Ireland,,2020-05-08,220
+Northern Ireland,,2020-05-09,232
+Northern Ireland,,2020-05-10,241
+Northern Ireland,,2020-05-11,248
+Northern Ireland,,2020-05-12,244
+Northern Ireland,,2020-05-13,245
+Northern Ireland,,2020-05-14,226
+Northern Ireland,,2020-05-15,210
+Northern Ireland,,2020-05-16,206
+Northern Ireland,,2020-05-17,208
+Northern Ireland,,2020-05-18,202
+Northern Ireland,,2020-05-19,197
+Northern Ireland,,2020-05-20,181
+Northern Ireland,,2020-05-21,172
+Northern Ireland,,2020-05-22,164
+Northern Ireland,,2020-05-23,162
+Northern Ireland,,2020-05-24,161
+Northern Ireland,,2020-05-25,159
+Northern Ireland,,2020-05-26,158
+Northern Ireland,,2020-05-27,149
+Northern Ireland,,2020-05-28,144
+Northern Ireland,,2020-05-29,136
+Northern Ireland,,2020-05-30,137
+Northern Ireland,,2020-05-31,139
+Northern Ireland,,2020-06-01,127
+Northern Ireland,,2020-06-02,119
+Northern Ireland,,2020-06-03,108
+Northern Ireland,,2020-06-04,96
+Northern Ireland,,2020-06-05,92
+Northern Ireland,,2020-06-06,89
+Northern Ireland,,2020-06-07,89
+Northern Ireland,,2020-06-08,89
+Northern Ireland,,2020-06-09,83
+Northern Ireland,,2020-06-10,81
+Northern Ireland,,2020-06-11,75
+Northern Ireland,,2020-06-12,70
+Northern Ireland,,2020-06-13,68
+Northern Ireland,,2020-06-14,67
+Northern Ireland,,2020-06-15,66
+Northern Ireland,,2020-06-16,59
+Northern Ireland,,2020-06-17,53
+Northern Ireland,,2020-06-18,50
+Northern Ireland,,2020-06-19,45
+Northern Ireland,,2020-06-20,47
+Northern Ireland,,2020-06-21,51
+Northern Ireland,,2020-06-22,52
+Northern Ireland,,2020-06-23,53
+Northern Ireland,,2020-06-24,48
+Northern Ireland,,2020-06-25,47
+Northern Ireland,,2020-06-26,40
+Northern Ireland,,2020-06-27,37
+Northern Ireland,,2020-06-28,40
+Northern Ireland,,2020-06-29,36
+Northern Ireland,,2020-06-30,34
+Northern Ireland,,2020-07-01,32
+Northern Ireland,,2020-07-02,31
+Northern Ireland,,2020-07-03,28
+Northern Ireland,,2020-07-04,30
+Northern Ireland,,2020-07-05,30
+Northern Ireland,,2020-07-06,30
+Northern Ireland,,2020-07-07,31
+Northern Ireland,,2020-07-08,31
+Northern Ireland,,2020-07-09,30
+Northern Ireland,,2020-07-10,28
+Northern Ireland,,2020-07-11,29
+Northern Ireland,,2020-07-12,27
+Northern Ireland,,2020-07-13,26
+Northern Ireland,,2020-07-14,24
+Northern Ireland,,2020-07-15,25
+Northern Ireland,,2020-07-16,25
+Northern Ireland,,2020-07-17,23
+Northern Ireland,,2020-07-18,25
+Northern Ireland,,2020-07-19,26
+Northern Ireland,,2020-07-20,27
+Northern Ireland,,2020-07-21,25
+Northern Ireland,,2020-07-22,24
+Northern Ireland,,2020-07-23,24
+Northern Ireland,,2020-07-24,25
+Northern Ireland,,2020-07-25,25
+Northern Ireland,,2020-07-26,24
+Northern Ireland,,2020-07-27,25
+Northern Ireland,,2020-07-28,25
+Northern Ireland,,2020-07-29,26
+Northern Ireland,,2020-07-30,24
+Northern Ireland,,2020-07-31,25
+Northern Ireland,,2020-08-01,27
+Northern Ireland,,2020-08-02,26
+Northern Ireland,,2020-08-03,25
+Northern Ireland,,2020-08-04,24
+Northern Ireland,,2020-08-05,23
+Northern Ireland,,2020-08-06,26
+Northern Ireland,,2020-08-07,25
+Northern Ireland,,2020-08-08,28
+Northern Ireland,,2020-08-09,29
+Northern Ireland,,2020-08-10,28
+Northern Ireland,,2020-08-11,29
+Northern Ireland,,2020-08-12,28
+Northern Ireland,,2020-08-13,30
+Northern Ireland,,2020-08-14,30
+Northern Ireland,,2020-08-15,31
+Northern Ireland,,2020-08-16,31
+Northern Ireland,,2020-08-17,37
+Northern Ireland,,2020-08-18,41
+Northern Ireland,,2020-08-19,46
+Northern Ireland,,2020-08-20,51
+Northern Ireland,,2020-08-21,52
+Northern Ireland,,2020-08-22,51
+Northern Ireland,,2020-08-23,52
+Northern Ireland,,2020-08-24,56
+Northern Ireland,,2020-08-25,53
+Northern Ireland,,2020-08-26,47
+Northern Ireland,,2020-08-27,50
+Northern Ireland,,2020-08-28,53
+Northern Ireland,,2020-08-29,55
+Northern Ireland,,2020-08-30,54
+Northern Ireland,,2020-08-31,59
+Northern Ireland,,2020-09-01,58
+Northern Ireland,,2020-09-02,52
+Northern Ireland,,2020-09-03,52
+Northern Ireland,,2020-09-04,51
+Northern Ireland,,2020-09-05,51
+Northern Ireland,,2020-09-06,54
+Northern Ireland,,2020-09-07,53
+Northern Ireland,,2020-09-08,57
+Northern Ireland,,2020-09-09,56
+Northern Ireland,,2020-09-10,58
+Northern Ireland,,2020-09-11,61
+Northern Ireland,,2020-09-12,65
+Northern Ireland,,2020-09-13,71
+Northern Ireland,,2020-09-14,74
+Northern Ireland,,2020-09-15,74
+Northern Ireland,,2020-09-16,72
+Northern Ireland,,2020-09-17,71
+Northern Ireland,,2020-09-18,72
+Northern Ireland,,2020-09-19,73
+Northern Ireland,,2020-09-20,79
+Northern Ireland,,2020-09-21,87
+Northern Ireland,,2020-09-22,92
+Northern Ireland,,2020-09-23,97
+Northern Ireland,,2020-09-24,100
+Northern Ireland,,2020-09-25,100
+Northern Ireland,,2020-09-26,109
+Northern Ireland,,2020-09-27,118
+Northern Ireland,,2020-09-28,134
+Northern Ireland,,2020-09-29,138
+Northern Ireland,,2020-09-30,146
+Northern Ireland,,2020-10-01,155
+Northern Ireland,,2020-10-02,150
+Northern Ireland,,2020-10-03,166
+Northern Ireland,,2020-10-04,181
+Northern Ireland,,2020-10-05,198
+Northern Ireland,,2020-10-06,216
+Northern Ireland,,2020-10-07,231
+Northern Ireland,,2020-10-08,245
+Northern Ireland,,2020-10-09,244
+Northern Ireland,,2020-10-10,265
+Northern Ireland,,2020-10-11,290
+Northern Ireland,,2020-10-12,297
+Northern Ireland,,2020-10-13,316
+Northern Ireland,,2020-10-14,331
+Northern Ireland,,2020-10-15,349
+Northern Ireland,,2020-10-16,373
+Northern Ireland,,2020-10-17,407
+Northern Ireland,,2020-10-18,433
+Northern Ireland,,2020-10-19,444
+Northern Ireland,,2020-10-20,464
+Northern Ireland,,2020-10-21,464
+Northern Ireland,,2020-10-22,482
+Northern Ireland,,2020-10-23,498
+Northern Ireland,,2020-10-24,526
+Northern Ireland,,2020-10-25,546
+Northern Ireland,,2020-10-26,546
+Northern Ireland,,2020-10-27,558
+Northern Ireland,,2020-10-28,552
+Northern Ireland,,2020-10-29,565
+Northern Ireland,,2020-10-30,560
+Northern Ireland,,2020-10-31,580
+Northern Ireland,,2020-11-01,595
+Northern Ireland,,2020-11-02,607
+Northern Ireland,,2020-11-03,614
+Northern Ireland,,2020-11-04,609
+Northern Ireland,,2020-11-05,604
+Northern Ireland,,2020-11-06,595
+Northern Ireland,,2020-11-07,602
+Northern Ireland,,2020-11-08,629
+Northern Ireland,,2020-11-09,625
+Northern Ireland,,2020-11-10,648
+Northern Ireland,,2020-11-11,647
+Northern Ireland,,2020-11-12,639
+Northern Ireland,,2020-11-13,620
+Northern Ireland,,2020-11-14,622
+Northern Ireland,,2020-11-15,633
+Northern Ireland,,2020-11-16,646
+Northern Ireland,,2020-11-17,635
+Northern Ireland,,2020-11-18,634
+Northern Ireland,,2020-11-19,628
+Northern Ireland,,2020-11-20,614
+Northern Ireland,,2020-11-21,626
+Northern Ireland,,2020-11-22,635
+Northern Ireland,,2020-11-23,610
+Northern Ireland,,2020-11-24,607
+Northern Ireland,,2020-11-25,608
+Northern Ireland,,2020-11-26,595
+Northern Ireland,,2020-11-27,589
+Northern Ireland,,2020-11-28,597
+Northern Ireland,,2020-11-29,618
+Northern Ireland,,2020-11-30,617
+Northern Ireland,,2020-12-01,613
+Northern Ireland,,2020-12-02,594
+Northern Ireland,,2020-12-03,593
+Northern Ireland,,2020-12-04,600
+Northern Ireland,,2020-12-05,608
+Northern Ireland,,2020-12-06,621
+Northern Ireland,,2020-12-07,617
+Northern Ireland,,2020-12-08,634
+Northern Ireland,,2020-12-09,612
+Northern Ireland,,2020-12-10,615
+Northern Ireland,,2020-12-11,600
+Northern Ireland,,2020-12-12,618
+Northern Ireland,,2020-12-13,638
+Northern Ireland,,2020-12-14,652
+Northern Ireland,,2020-12-15,664
+Northern Ireland,,2020-12-16,662
+Northern Ireland,,2020-12-17,644
+Northern Ireland,,2020-12-18,634
+Northern Ireland,,2020-12-19,642
+Northern Ireland,,2020-12-20,658
+Northern Ireland,,2020-12-21,663
+Northern Ireland,,2020-12-22,653
+Northern Ireland,,2020-12-23,643
+Northern Ireland,,2020-12-24,630
+Northern Ireland,,2020-12-25,647
+Northern Ireland,,2020-12-26,679
+Northern Ireland,,2020-12-27,712
+Northern Ireland,,2020-12-28,740
+Northern Ireland,,2020-12-29,778
+Northern Ireland,,2020-12-30,804
+Northern Ireland,,2020-12-31,796
+Northern Ireland,,2021-01-01,828
+Northern Ireland,,2021-01-02,855
+Northern Ireland,,2021-01-03,893
+Northern Ireland,,2021-01-04,901
+Northern Ireland,,2021-01-05,908
+Northern Ireland,,2021-01-06,921
+Northern Ireland,,2021-01-07,930
+Northern Ireland,,2021-01-08,966
+Northern Ireland,,2021-01-09,999
+Northern Ireland,,2021-01-10,1052
+Northern Ireland,,2021-01-11,1047
+Northern Ireland,,2021-01-12,1053
+Northern Ireland,,2021-01-13,1055
+Northern Ireland,,2021-01-14,1045
+Northern Ireland,,2021-01-15,1017
+Northern Ireland,,2021-01-16,1039
+Northern Ireland,,2021-01-17,1046
+Northern Ireland,,2021-01-18,1028
+Northern Ireland,,2021-01-19,1002
+Northern Ireland,,2021-01-20,983
+Northern Ireland,,2021-01-21,988
+Northern Ireland,,2021-01-22,969
+Northern Ireland,,2021-01-23,974
+Northern Ireland,,2021-01-24,997
+Northern Ireland,,2021-01-25,970
+Northern Ireland,,2021-01-26,945
+Northern Ireland,,2021-01-27,906
+Northern Ireland,,2021-01-28,871
+Northern Ireland,,2021-01-29,844
+Northern Ireland,,2021-01-30,849
+Northern Ireland,,2021-01-31,855
+Northern Ireland,,2021-02-01,825
+Northern Ireland,,2021-02-02,797
+Northern Ireland,,2021-02-03,767
+Northern Ireland,,2021-02-04,723
+Northern Ireland,,2021-02-05,680
+Northern Ireland,,2021-02-06,673
+Northern Ireland,,2021-02-07,675
+Northern Ireland,,2021-02-08,639
+Northern Ireland,,2021-02-09,612
+Northern Ireland,,2021-02-10,583
+Northern Ireland,,2021-02-11,558
+Northern Ireland,,2021-02-12,526
+Northern Ireland,,2021-02-13,525
+Northern Ireland,,2021-02-14,530
+Northern Ireland,,2021-02-15,524
+Northern Ireland,,2021-02-16,493
+Northern Ireland,,2021-02-17,475
+Northern Ireland,,2021-02-18,463
+Northern Ireland,,2021-02-19,449
+Northern Ireland,,2021-02-20,450
+Northern Ireland,,2021-02-21,446
+Northern Ireland,,2021-02-22,428
+Northern Ireland,,2021-02-23,412
+Northern Ireland,,2021-02-24,390
+Northern Ireland,,2021-02-25,376
+Northern Ireland,,2021-02-26,349
+Northern Ireland,,2021-02-27,346
+Northern Ireland,,2021-02-28,342
+Northern Ireland,,2021-03-01,334
+Northern Ireland,,2021-03-02,310
+Northern Ireland,,2021-03-03,288
+Northern Ireland,,2021-03-04,277
+Northern Ireland,,2021-03-05,259
+Northern Ireland,,2021-03-06,258
+Northern Ireland,,2021-03-07,261
+Northern Ireland,,2021-03-08,261
+Northern Ireland,,2021-03-09,244
+Northern Ireland,,2021-03-10,221
+Northern Ireland,,2021-03-11,220
+Northern Ireland,,2021-03-12,214
+Northern Ireland,,2021-03-13,219
+Northern Ireland,,2021-03-14,216
+Northern Ireland,,2021-03-15,208
+Northern Ireland,,2021-03-16,203
+Northern Ireland,,2021-03-17,209
+Northern Ireland,,2021-03-18,203
+Northern Ireland,,2021-03-19,197
+Northern Ireland,,2021-03-20,196
+Northern Ireland,,2021-03-21,197
+Northern Ireland,,2021-03-22,183
+Northern Ireland,,2021-03-23,182
+Northern Ireland,,2021-03-24,181
+Northern Ireland,,2021-03-25,166
+Northern Ireland,,2021-03-26,155
+Northern Ireland,,2021-03-27,157
+Northern Ireland,,2021-03-28,161
+Northern Ireland,,2021-03-29,152
+Northern Ireland,,2021-03-30,137
+Northern Ireland,,2021-03-31,131
+Northern Ireland,,2021-04-01,133
+Northern Ireland,,2021-04-02,128
+Northern Ireland,,2021-04-03,123
+Northern Ireland,,2021-04-04,122
+Northern Ireland,,2021-04-05,116
+Northern Ireland,,2021-04-06,116
+Northern Ireland,,2021-04-07,116
+Northern Ireland,,2021-04-08,109
+Northern Ireland,,2021-04-09,96
+Northern Ireland,,2021-04-10,98
+Northern Ireland,,2021-04-11,96
+Northern Ireland,,2021-04-12,88
+Northern Ireland,,2021-04-13,85
+Northern Ireland,,2021-04-14,80
+Northern Ireland,,2021-04-15,78
+Northern Ireland,,2021-04-16,81
+Northern Ireland,,2021-04-17,80
+Northern Ireland,,2021-04-18,79
+Northern Ireland,,2021-04-19,74
+Northern Ireland,,2021-04-20,70
+Northern Ireland,,2021-04-21,76
+Northern Ireland,,2021-04-22,74
+Northern Ireland,,2021-04-23,75
+Northern Ireland,,2021-04-24,75
+Northern Ireland,,2021-04-25,79
+Northern Ireland,,2021-04-26,77
+Northern Ireland,,2021-04-27,79
+Northern Ireland,,2021-04-28,79
+Northern Ireland,,2021-04-29,73
+Northern Ireland,,2021-04-30,76
+Northern Ireland,,2021-05-01,78
+Northern Ireland,,2021-05-02,75
+Northern Ireland,,2021-05-03,80
+Northern Ireland,,2021-05-04,78
+Northern Ireland,,2021-05-05,74
+Northern Ireland,,2021-05-06,69
+Northern Ireland,,2021-05-07,62
+Northern Ireland,,2021-05-08,63
+Northern Ireland,,2021-05-09,67
+Northern Ireland,,2021-05-10,64
+Northern Ireland,,2021-05-11,59
+Northern Ireland,,2021-05-12,54
+Northern Ireland,,2021-05-13,49
+Northern Ireland,,2021-05-14,46
+Northern Ireland,,2021-05-15,45
+Northern Ireland,,2021-05-16,41
+Northern Ireland,,2021-05-17,42
+Northern Ireland,,2021-05-18,41
+Northern Ireland,,2021-05-19,42
+Northern Ireland,,2021-05-20,38
+Northern Ireland,,2021-05-21,36
+Northern Ireland,,2021-05-22,38
+Northern Ireland,,2021-05-23,37
+Northern Ireland,,2021-05-24,35
+Northern Ireland,,2021-05-25,33
+Northern Ireland,,2021-05-26,32
+Northern Ireland,,2021-05-27,30
+Northern Ireland,,2021-05-28,32
+Northern Ireland,,2021-05-29,33
+Northern Ireland,,2021-05-30,31
+Northern Ireland,,2021-05-31,27
+Northern Ireland,,2021-06-01,28
+Northern Ireland,,2021-06-02,24
+Northern Ireland,,2021-06-03,25
+Northern Ireland,,2021-06-04,22
+Northern Ireland,,2021-06-05,23
+Northern Ireland,,2021-06-06,23
+Northern Ireland,,2021-06-07,26
+Northern Ireland,,2021-06-08,27
+Northern Ireland,,2021-06-09,25
+Northern Ireland,,2021-06-10,24
+Northern Ireland,,2021-06-11,24
+Northern Ireland,,2021-06-12,22
+Northern Ireland,,2021-06-13,20
+Northern Ireland,,2021-06-14,20
+Northern Ireland,,2021-06-15,22
+Northern Ireland,,2021-06-16,23
+Northern Ireland,,2021-06-17,23
+Northern Ireland,,2021-06-18,23
+Northern Ireland,,2021-06-19,22
+Northern Ireland,,2021-06-20,22
+Northern Ireland,,2021-06-21,24
+Northern Ireland,,2021-06-22,27
+Northern Ireland,,2021-06-23,30
+Northern Ireland,,2021-06-24,29
+Northern Ireland,,2021-06-25,29
+Northern Ireland,,2021-06-26,33
+Northern Ireland,,2021-06-27,38
+Northern Ireland,,2021-06-28,42
+Northern Ireland,,2021-06-29,47
+Northern Ireland,,2021-06-30,53
+Northern Ireland,,2021-07-01,58
+Northern Ireland,,2021-07-02,68
+Northern Ireland,,2021-07-03,70
+Northern Ireland,,2021-07-04,75
+Northern Ireland,,2021-07-05,78
+Northern Ireland,,2021-07-06,84
+Northern Ireland,,2021-07-07,93
+Northern Ireland,,2021-07-08,97
+Northern Ireland,,2021-07-09,95
+Northern Ireland,,2021-07-10,105
+Northern Ireland,,2021-07-11,111
+Northern Ireland,,2021-07-12,124
+Northern Ireland,,2021-07-13,130
+Northern Ireland,,2021-07-14,151
+Northern Ireland,,2021-07-15,166
+Northern Ireland,,2021-07-16,167
+Northern Ireland,,2021-07-17,180
+Northern Ireland,,2021-07-18,198
+Northern Ireland,,2021-07-19,202
+Northern Ireland,,2021-07-20,216
+Northern Ireland,,2021-07-21,231
+Northern Ireland,,2021-07-22,264
+Northern Ireland,,2021-07-23,280
+Northern Ireland,,2021-07-24,291
+Northern Ireland,,2021-07-25,315
+Northern Ireland,,2021-07-26,329
+Northern Ireland,,2021-07-27,320
+Northern Ireland,,2021-07-28,307
+Northern Ireland,,2021-07-29,302
+Northern Ireland,,2021-07-30,306
+Northern Ireland,,2021-07-31,313
+Northern Ireland,,2021-08-01,323
+Northern Ireland,,2021-08-02,340
+Northern Ireland,,2021-08-03,336
+Northern Ireland,,2021-08-04,332
+Northern Ireland,,2021-08-05,350
+Northern Ireland,,2021-08-06,373
+Northern Ireland,,2021-08-07,396
+Northern Ireland,,2021-08-08,420
+Northern Ireland,,2021-08-09,420
+Northern Ireland,,2021-08-10,429
+Northern Ireland,,2021-08-11,437
+Northern Ireland,,2021-08-12,443
+Northern Ireland,,2021-08-13,425
+Northern Ireland,,2021-08-14,441
+Northern Ireland,,2021-08-15,460
+Northern Ireland,,2021-08-16,473
+Northern Ireland,,2021-08-17,480
+Northern Ireland,,2021-08-18,465
+Northern Ireland,,2021-08-19,456
+Northern Ireland,,2021-08-20,440
+Northern Ireland,,2021-08-21,449
+Northern Ireland,,2021-08-22,466
+Northern Ireland,,2021-08-23,458
+Northern Ireland,,2021-08-24,470
+Northern Ireland,,2021-08-25,456
+Northern Ireland,,2021-08-26,472
+Northern Ireland,,2021-08-27,474
+Northern Ireland,,2021-08-28,474
+Northern Ireland,,2021-08-29,484
+Northern Ireland,,2021-08-30,499
+Northern Ireland,,2021-08-31,497
+Northern Ireland,,2021-09-01,503
+Northern Ireland,,2021-09-02,489
+Northern Ireland,,2021-09-03,491
+Northern Ireland,,2021-09-04,503
+Northern Ireland,,2021-09-05,515
+Northern Ireland,,2021-09-06,521
+Northern Ireland,,2021-09-07,527
+Northern Ireland,,2021-09-08,523
+Northern Ireland,,2021-09-09,517
+Northern Ireland,,2021-09-10,489
+Northern Ireland,,2021-09-11,497
+Northern Ireland,,2021-09-12,501
+Northern Ireland,,2021-09-13,505
+Northern Ireland,,2021-09-14,486
+Northern Ireland,,2021-09-15,492
+Northern Ireland,,2021-09-16,474
+Northern Ireland,,2021-09-17,457
+Northern Ireland,,2021-09-18,461
+Northern Ireland,,2021-09-19,471
+Northern Ireland,,2021-09-20,463
+Northern Ireland,,2021-09-21,467
+Northern Ireland,,2021-09-22,452
+Northern Ireland,,2021-09-23,429
+Northern Ireland,,2021-09-24,413
+Northern Ireland,,2021-09-25,421
+Northern Ireland,,2021-09-26,430
+Northern Ireland,,2021-09-27,429
+Northern Ireland,,2021-09-28,421
+Northern Ireland,,2021-09-29,419
+Northern Ireland,,2021-09-30,415
+Northern Ireland,,2021-10-01,403
+Northern Ireland,,2021-10-02,407
+Northern Ireland,,2021-10-03,419
+Northern Ireland,,2021-10-04,421
+Northern Ireland,,2021-10-05,424
+Northern Ireland,,2021-10-06,425
+Northern Ireland,,2021-10-07,429
+Northern Ireland,,2021-10-08,417
+Northern Ireland,,2021-10-09,430
+Northern Ireland,,2021-10-10,438
+Northern Ireland,,2021-10-11,445
+Northern Ireland,,2021-10-12,444
+Northern Ireland,,2021-10-13,443
+Northern Ireland,,2021-10-14,442
+Northern Ireland,,2021-10-15,441
+Northern Ireland,,2021-10-16,440
+Northern Ireland,,2021-10-17,462
+Northern Ireland,,2021-10-18,472
+Northern Ireland,,2021-10-19,468
+Northern Ireland,,2021-10-20,476
+Northern Ireland,,2021-10-21,475
+Northern Ireland,,2021-10-22,454
+Northern Ireland,,2021-10-23,459
+Northern Ireland,,2021-10-24,480
+Northern Ireland,,2021-10-25,488
+Northern Ireland,,2021-10-26,481
+Northern Ireland,,2021-10-27,478
+Northern Ireland,,2021-10-28,483
+Northern Ireland,,2021-10-29,485
+Northern Ireland,,2021-10-30,504
+Northern Ireland,,2021-10-31,515
+Northern Ireland,,2021-11-01,507
+Northern Ireland,,2021-11-02,502
+Northern Ireland,,2021-11-03,491
+Northern Ireland,,2021-11-04,493
+Northern Ireland,,2021-11-05,494
+Northern Ireland,,2021-11-06,491
+Northern Ireland,,2021-11-07,498
+Northern Ireland,,2021-11-08,488
+Northern Ireland,,2021-11-09,487
+Northern Ireland,,2021-11-10,488
+Northern Ireland,,2021-11-11,472
+Northern Ireland,,2021-11-12,473
+Northern Ireland,,2021-11-13,490
+Northern Ireland,,2021-11-14,498
+Northern Ireland,,2021-11-15,477
+Northern Ireland,,2021-11-16,461
+Northern Ireland,,2021-11-17,452
+Northern Ireland,,2021-11-18,436
+Northern Ireland,,2021-11-19,422
+Northern Ireland,,2021-11-20,418
+Northern Ireland,,2021-11-21,427
+Northern Ireland,,2021-11-22,416
+Northern Ireland,,2021-11-23,405
+Northern Ireland,,2021-11-24,395
+Scotland,,2020-03-27,404
+Scotland,,2020-03-28,511
+Scotland,,2020-03-29,565
+Scotland,,2020-03-30,627
+Scotland,,2020-03-31,752
+Scotland,,2020-04-01,815
+Scotland,,2020-04-02,910
+Scotland,,2020-04-03,1037
+Scotland,,2020-04-04,1107
+Scotland,,2020-04-05,1204
+Scotland,,2020-04-06,1262
+Scotland,,2020-04-07,1328
+Scotland,,2020-04-08,1415
+Scotland,,2020-04-09,1440
+Scotland,,2020-04-10,1461
+Scotland,,2020-04-11,1467
+Scotland,,2020-04-12,1487
+Scotland,,2020-04-13,1482
+Scotland,,2020-04-14,1514
+Scotland,,2020-04-15,1486
+Scotland,,2020-04-16,1479
+Scotland,,2020-04-17,1487
+Scotland,,2020-04-18,1501
+Scotland,,2020-04-19,1520
+Scotland,,2020-04-20,1520
+Scotland,,2020-04-21,1472
+Scotland,,2020-04-22,1432
+Scotland,,2020-04-23,1423
+Scotland,,2020-04-24,1383
+Scotland,,2020-04-25,1385
+Scotland,,2020-04-26,1382
+Scotland,,2020-04-27,1387
+Scotland,,2020-04-28,1359
+Scotland,,2020-04-29,1363
+Scotland,,2020-04-30,1324
+Scotland,,2020-05-01,1302
+Scotland,,2020-05-02,1277
+Scotland,,2020-05-03,1266
+Scotland,,2020-05-04,1279
+Scotland,,2020-05-05,1225
+Scotland,,2020-05-06,1204
+Scotland,,2020-05-07,1199
+Scotland,,2020-05-08,1168
+Scotland,,2020-05-09,1159
+Scotland,,2020-05-10,1132
+Scotland,,2020-05-11,1145
+Scotland,,2020-05-12,1131
+Scotland,,2020-05-13,1101
+Scotland,,2020-05-14,1100
+Scotland,,2020-05-15,1066
+Scotland,,2020-05-16,1011
+Scotland,,2020-05-17,1007
+Scotland,,2020-05-18,1005
+Scotland,,2020-05-19,969
+Scotland,,2020-05-20,943
+Scotland,,2020-05-21,909
+Scotland,,2020-05-22,874
+Scotland,,2020-05-23,841
+Scotland,,2020-05-24,845
+Scotland,,2020-05-25,849
+Scotland,,2020-05-26,833
+Scotland,,2020-05-27,810
+Scotland,,2020-05-28,797
+Scotland,,2020-05-29,769
+Scotland,,2020-05-30,736
+Scotland,,2020-05-31,733
+Scotland,,2020-06-01,736
+Scotland,,2020-06-02,714
+Scotland,,2020-06-03,708
+Scotland,,2020-06-04,691
+Scotland,,2020-06-05,682
+Scotland,,2020-06-06,652
+Scotland,,2020-06-07,652
+Scotland,,2020-06-08,660
+Scotland,,2020-06-09,647
+Scotland,,2020-06-10,628
+Scotland,,2020-06-11,610
+Scotland,,2020-06-12,590
+Scotland,,2020-06-13,582
+Scotland,,2020-06-14,575
+Scotland,,2020-06-15,578
+Scotland,,2020-06-16,567
+Scotland,,2020-06-17,552
+Scotland,,2020-06-18,544
+Scotland,,2020-06-19,518
+Scotland,,2020-06-20,511
+Scotland,,2020-06-21,518
+Scotland,,2020-06-22,515
+Scotland,,2020-06-23,512
+Scotland,,2020-06-24,489
+Scotland,,2020-06-25,472
+Scotland,,2020-06-26,467
+Scotland,,2020-06-27,456
+Scotland,,2020-06-28,453
+Scotland,,2020-06-29,453
+Scotland,,2020-06-30,450
+Scotland,,2020-07-01,439
+Scotland,,2020-07-02,432
+Scotland,,2020-07-03,422
+Scotland,,2020-07-04,430
+Scotland,,2020-07-05,424
+Scotland,,2020-07-06,384
+Scotland,,2020-07-07,376
+Scotland,,2020-07-08,358
+Scotland,,2020-07-09,342
+Scotland,,2020-07-10,337
+Scotland,,2020-07-11,323
+Scotland,,2020-07-12,330
+Scotland,,2020-07-13,335
+Scotland,,2020-07-14,327
+Scotland,,2020-07-15,329
+Scotland,,2020-07-16,320
+Scotland,,2020-07-17,316
+Scotland,,2020-07-18,305
+Scotland,,2020-07-19,302
+Scotland,,2020-07-20,299
+Scotland,,2020-07-21,303
+Scotland,,2020-07-22,295
+Scotland,,2020-07-23,287
+Scotland,,2020-07-24,278
+Scotland,,2020-07-25,270
+Scotland,,2020-07-26,267
+Scotland,,2020-07-27,270
+Scotland,,2020-07-28,264
+Scotland,,2020-07-29,260
+Scotland,,2020-07-30,260
+Scotland,,2020-07-31,255
+Scotland,,2020-08-01,260
+Scotland,,2020-08-02,265
+Scotland,,2020-08-03,265
+Scotland,,2020-08-04,270
+Scotland,,2020-08-05,267
+Scotland,,2020-08-06,270
+Scotland,,2020-08-07,262
+Scotland,,2020-08-08,261
+Scotland,,2020-08-09,261
+Scotland,,2020-08-10,267
+Scotland,,2020-08-11,269
+Scotland,,2020-08-12,265
+Scotland,,2020-08-13,258
+Scotland,,2020-08-14,253
+Scotland,,2020-08-15,244
+Scotland,,2020-08-16,243
+Scotland,,2020-08-17,248
+Scotland,,2020-08-18,254
+Scotland,,2020-08-19,247
+Scotland,,2020-08-20,248
+Scotland,,2020-08-21,253
+Scotland,,2020-08-22,246
+Scotland,,2020-08-23,245
+Scotland,,2020-08-24,248
+Scotland,,2020-08-25,243
+Scotland,,2020-08-26,249
+Scotland,,2020-08-27,257
+Scotland,,2020-08-28,255
+Scotland,,2020-08-29,258
+Scotland,,2020-08-30,251
+Scotland,,2020-08-31,258
+Scotland,,2020-09-01,264
+Scotland,,2020-09-02,258
+Scotland,,2020-09-03,259
+Scotland,,2020-09-04,258
+Scotland,,2020-09-05,251
+Scotland,,2020-09-06,244
+Scotland,,2020-09-07,256
+Scotland,,2020-09-08,267
+Scotland,,2020-09-09,274
+Scotland,,2020-09-10,266
+Scotland,,2020-09-11,45
+Scotland,,2020-09-12,42
+Scotland,,2020-09-13,45
+Scotland,,2020-09-14,51
+Scotland,,2020-09-15,48
+Scotland,,2020-09-16,51
+Scotland,,2020-09-17,52
+Scotland,,2020-09-18,61
+Scotland,,2020-09-19,64
+Scotland,,2020-09-20,63
+Scotland,,2020-09-21,73
+Scotland,,2020-09-22,73
+Scotland,,2020-09-23,83
+Scotland,,2020-09-24,85
+Scotland,,2020-09-25,89
+Scotland,,2020-09-26,99
+Scotland,,2020-09-27,105
+Scotland,,2020-09-28,122
+Scotland,,2020-09-29,123
+Scotland,,2020-09-30,137
+Scotland,,2020-10-01,154
+Scotland,,2020-10-02,175
+Scotland,,2020-10-03,191
+Scotland,,2020-10-04,210
+Scotland,,2020-10-05,218
+Scotland,,2020-10-06,262
+Scotland,,2020-10-07,319
+Scotland,,2020-10-08,377
+Scotland,,2020-10-09,397
+Scotland,,2020-10-10,432
+Scotland,,2020-10-11,449
+Scotland,,2020-10-12,487
+Scotland,,2020-10-13,527
+Scotland,,2020-10-14,570
+Scotland,,2020-10-15,601
+Scotland,,2020-10-16,627
+Scotland,,2020-10-17,672
+Scotland,,2020-10-18,712
+Scotland,,2020-10-19,755
+Scotland,,2020-10-20,824
+Scotland,,2020-10-21,873
+Scotland,,2020-10-22,934
+Scotland,,2020-10-23,975
+Scotland,,2020-10-24,985
+Scotland,,2020-10-25,1016
+Scotland,,2020-10-26,1052
+Scotland,,2020-10-27,1100
+Scotland,,2020-10-28,1117
+Scotland,,2020-10-29,1152
+Scotland,,2020-10-30,1171
+Scotland,,2020-10-31,1154
+Scotland,,2020-11-01,1203
+Scotland,,2020-11-02,1235
+Scotland,,2020-11-03,1264
+Scotland,,2020-11-04,1257
+Scotland,,2020-11-05,1252
+Scotland,,2020-11-06,1237
+Scotland,,2020-11-07,1245
+Scotland,,2020-11-08,1245
+Scotland,,2020-11-09,1227
+Scotland,,2020-11-10,1239
+Scotland,,2020-11-11,1235
+Scotland,,2020-11-12,1207
+Scotland,,2020-11-13,1228
+Scotland,,2020-11-14,1198
+Scotland,,2020-11-15,1241
+Scotland,,2020-11-16,1227
+Scotland,,2020-11-17,1250
+Scotland,,2020-11-18,1241
+Scotland,,2020-11-19,1212
+Scotland,,2020-11-20,1234
+Scotland,,2020-11-21,1194
+Scotland,,2020-11-22,1170
+Scotland,,2020-11-23,1208
+Scotland,,2020-11-24,1197
+Scotland,,2020-11-25,1156
+Scotland,,2020-11-26,1125
+Scotland,,2020-11-27,1099
+Scotland,,2020-11-28,1074
+Scotland,,2020-11-29,1049
+Scotland,,2020-11-30,1041
+Scotland,,2020-12-01,1021
+Scotland,,2020-12-02,991
+Scotland,,2020-12-03,982
+Scotland,,2020-12-04,965
+Scotland,,2020-12-05,945
+Scotland,,2020-12-06,951
+Scotland,,2020-12-07,974
+Scotland,,2020-12-08,983
+Scotland,,2020-12-09,972
+Scotland,,2020-12-10,984
+Scotland,,2020-12-11,999
+Scotland,,2020-12-12,994
+Scotland,,2020-12-13,1015
+Scotland,,2020-12-14,1012
+Scotland,,2020-12-15,996
+Scotland,,2020-12-16,1031
+Scotland,,2020-12-17,1012
+Scotland,,2020-12-18,1032
+Scotland,,2020-12-19,1033
+Scotland,,2020-12-20,1061
+Scotland,,2020-12-21,1078
+Scotland,,2020-12-22,1045
+Scotland,,2020-12-23,1025
+Scotland,,2020-12-24,1008
+Scotland,,2020-12-25,973
+Scotland,,2020-12-26,985
+Scotland,,2020-12-27,993
+Scotland,,2020-12-28,1040
+Scotland,,2020-12-29,1092
+Scotland,,2020-12-30,1133
+Scotland,,2020-12-31,1174
+Scotland,,2021-01-01,1189
+Scotland,,2021-01-02,1212
+Scotland,,2021-01-03,1246
+Scotland,,2021-01-04,1282
+Scotland,,2021-01-05,1347
+Scotland,,2021-01-06,1384
+Scotland,,2021-01-07,1467
+Scotland,,2021-01-08,1530
+Scotland,,2021-01-09,1596
+Scotland,,2021-01-10,1598
+Scotland,,2021-01-11,1664
+Scotland,,2021-01-12,1717
+Scotland,,2021-01-13,1794
+Scotland,,2021-01-14,1840
+Scotland,,2021-01-15,1881
+Scotland,,2021-01-16,1893
+Scotland,,2021-01-17,1918
+Scotland,,2021-01-18,1959
+Scotland,,2021-01-19,1989
+Scotland,,2021-01-20,2003
+Scotland,,2021-01-21,2004
+Scotland,,2021-01-22,2053
+Scotland,,2021-01-23,2026
+Scotland,,2021-01-24,2010
+Scotland,,2021-01-25,2016
+Scotland,,2021-01-26,2010
+Scotland,,2021-01-27,2016
+Scotland,,2021-01-28,1983
+Scotland,,2021-01-29,1958
+Scotland,,2021-01-30,1952
+Scotland,,2021-01-31,1941
+Scotland,,2021-02-01,1958
+Scotland,,2021-02-02,1934
+Scotland,,2021-02-03,1865
+Scotland,,2021-02-04,1812
+Scotland,,2021-02-05,1794
+Scotland,,2021-02-06,1729
+Scotland,,2021-02-07,1710
+Scotland,,2021-02-08,1672
+Scotland,,2021-02-09,1618
+Scotland,,2021-02-10,1542
+Scotland,,2021-02-11,1499
+Scotland,,2021-02-12,1472
+Scotland,,2021-02-13,1449
+Scotland,,2021-02-14,1443
+Scotland,,2021-02-15,1428
+Scotland,,2021-02-16,1383
+Scotland,,2021-02-17,1317
+Scotland,,2021-02-18,1261
+Scotland,,2021-02-19,1222
+Scotland,,2021-02-20,1154
+Scotland,,2021-02-21,1132
+Scotland,,2021-02-22,1141
+Scotland,,2021-02-23,1076
+Scotland,,2021-02-24,1018
+Scotland,,2021-02-25,967
+Scotland,,2021-02-26,924
+Scotland,,2021-02-27,898
+Scotland,,2021-02-28,837
+Scotland,,2021-03-01,824
+Scotland,,2021-03-02,784
+Scotland,,2021-03-03,750
+Scotland,,2021-03-04,718
+Scotland,,2021-03-05,666
+Scotland,,2021-03-06,639
+Scotland,,2021-03-07,628
+Scotland,,2021-03-08,654
+Scotland,,2021-03-09,614
+Scotland,,2021-03-10,582
+Scotland,,2021-03-11,525
+Scotland,,2021-03-12,512
+Scotland,,2021-03-13,479
+Scotland,,2021-03-14,461
+Scotland,,2021-03-15,447
+Scotland,,2021-03-16,440
+Scotland,,2021-03-17,422
+Scotland,,2021-03-18,405
+Scotland,,2021-03-19,397
+Scotland,,2021-03-20,367
+Scotland,,2021-03-21,344
+Scotland,,2021-03-22,353
+Scotland,,2021-03-23,341
+Scotland,,2021-03-24,321
+Scotland,,2021-03-25,310
+Scotland,,2021-03-26,296
+Scotland,,2021-03-27,283
+Scotland,,2021-03-28,264
+Scotland,,2021-03-29,259
+Scotland,,2021-03-30,250
+Scotland,,2021-03-31,237
+Scotland,,2021-04-01,215
+Scotland,,2021-04-02,207
+Scotland,,2021-04-03,201
+Scotland,,2021-04-04,193
+Scotland,,2021-04-05,202
+Scotland,,2021-04-06,196
+Scotland,,2021-04-07,192
+Scotland,,2021-04-08,174
+Scotland,,2021-04-09,167
+Scotland,,2021-04-10,160
+Scotland,,2021-04-11,149
+Scotland,,2021-04-12,154
+Scotland,,2021-04-13,133
+Scotland,,2021-04-14,119
+Scotland,,2021-04-15,115
+Scotland,,2021-04-16,109
+Scotland,,2021-04-17,105
+Scotland,,2021-04-18,104
+Scotland,,2021-04-19,104
+Scotland,,2021-04-20,106
+Scotland,,2021-04-21,107
+Scotland,,2021-04-22,93
+Scotland,,2021-04-23,93
+Scotland,,2021-04-24,94
+Scotland,,2021-04-25,89
+Scotland,,2021-04-26,93
+Scotland,,2021-04-27,81
+Scotland,,2021-04-28,75
+Scotland,,2021-04-29,70
+Scotland,,2021-04-30,67
+Scotland,,2021-05-01,65
+Scotland,,2021-05-02,68
+Scotland,,2021-05-03,65
+Scotland,,2021-05-04,58
+Scotland,,2021-05-05,69
+Scotland,,2021-05-06,58
+Scotland,,2021-05-07,68
+Scotland,,2021-05-08,64
+Scotland,,2021-05-09,65
+Scotland,,2021-05-10,72
+Scotland,,2021-05-11,69
+Scotland,,2021-05-12,65
+Scotland,,2021-05-13,63
+Scotland,,2021-05-14,64
+Scotland,,2021-05-15,69
+Scotland,,2021-05-16,61
+Scotland,,2021-05-17,68
+Scotland,,2021-05-18,70
+Scotland,,2021-05-19,78
+Scotland,,2021-05-20,83
+Scotland,,2021-05-21,81
+Scotland,,2021-05-22,88
+Scotland,,2021-05-23,99
+Scotland,,2021-05-24,94
+Scotland,,2021-05-25,97
+Scotland,,2021-05-26,98
+Scotland,,2021-05-27,83
+Scotland,,2021-05-28,90
+Scotland,,2021-05-29,86
+Scotland,,2021-05-30,101
+Scotland,,2021-05-31,109
+Scotland,,2021-06-01,106
+Scotland,,2021-06-02,114
+Scotland,,2021-06-03,110
+Scotland,,2021-06-04,116
+Scotland,,2021-06-05,111
+Scotland,,2021-06-06,112
+Scotland,,2021-06-07,122
+Scotland,,2021-06-08,121
+Scotland,,2021-06-09,124
+Scotland,,2021-06-10,124
+Scotland,,2021-06-11,132
+Scotland,,2021-06-12,129
+Scotland,,2021-06-13,130
+Scotland,,2021-06-14,128
+Scotland,,2021-06-15,137
+Scotland,,2021-06-16,133
+Scotland,,2021-06-17,140
+Scotland,,2021-06-18,128
+Scotland,,2021-06-19,145
+Scotland,,2021-06-20,150
+Scotland,,2021-06-21,159
+Scotland,,2021-06-22,171
+Scotland,,2021-06-23,170
+Scotland,,2021-06-24,177
+Scotland,,2021-06-25,188
+Scotland,,2021-06-26,197
+Scotland,,2021-06-27,196
+Scotland,,2021-06-28,202
+Scotland,,2021-06-29,215
+Scotland,,2021-06-30,235
+Scotland,,2021-07-01,275
+Scotland,,2021-07-02,285
+Scotland,,2021-07-03,306
+Scotland,,2021-07-04,316
+Scotland,,2021-07-05,338
+Scotland,,2021-07-06,346
+Scotland,,2021-07-07,387
+Scotland,,2021-07-08,401
+Scotland,,2021-07-09,427
+Scotland,,2021-07-10,436
+Scotland,,2021-07-11,445
+Scotland,,2021-07-12,469
+Scotland,,2021-07-13,506
+Scotland,,2021-07-14,515
+Scotland,,2021-07-15,543
+Scotland,,2021-07-16,532
+Scotland,,2021-07-17,517
+Scotland,,2021-07-18,514
+Scotland,,2021-07-19,536
+Scotland,,2021-07-20,529
+Scotland,,2021-07-21,529
+Scotland,,2021-07-22,488
+Scotland,,2021-07-23,502
+Scotland,,2021-07-24,479
+Scotland,,2021-07-25,480
+Scotland,,2021-07-26,475
+Scotland,,2021-07-27,472
+Scotland,,2021-07-28,474
+Scotland,,2021-07-29,490
+Scotland,,2021-07-30,462
+Scotland,,2021-07-31,444
+Scotland,,2021-08-01,422
+Scotland,,2021-08-02,407
+Scotland,,2021-08-03,406
+Scotland,,2021-08-04,383
+Scotland,,2021-08-05,381
+Scotland,,2021-08-06,367
+Scotland,,2021-08-07,360
+Scotland,,2021-08-08,360
+Scotland,,2021-08-09,356
+Scotland,,2021-08-10,352
+Scotland,,2021-08-11,356
+Scotland,,2021-08-12,356
+Scotland,,2021-08-13,353
+Scotland,,2021-08-14,337
+Scotland,,2021-08-15,331
+Scotland,,2021-08-16,337
+Scotland,,2021-08-17,338
+Scotland,,2021-08-18,324
+Scotland,,2021-08-19,317
+Scotland,,2021-08-20,312
+Scotland,,2021-08-21,323
+Scotland,,2021-08-22,338
+Scotland,,2021-08-23,356
+Scotland,,2021-08-24,364
+Scotland,,2021-08-25,391
+Scotland,,2021-08-26,426
+Scotland,,2021-08-27,479
+Scotland,,2021-08-28,494
+Scotland,,2021-08-29,507
+Scotland,,2021-08-30,551
+Scotland,,2021-08-31,585
+Scotland,,2021-09-01,629
+Scotland,,2021-09-02,624
+Scotland,,2021-09-03,653
+Scotland,,2021-09-04,670
+Scotland,,2021-09-05,719
+Scotland,,2021-09-06,771
+Scotland,,2021-09-07,805
+Scotland,,2021-09-08,883
+Scotland,,2021-09-09,928
+Scotland,,2021-09-10,977
+Scotland,,2021-09-11,984
+Scotland,,2021-09-12,1023
+Scotland,,2021-09-13,1048
+Scotland,,2021-09-14,1065
+Scotland,,2021-09-15,1079
+Scotland,,2021-09-16,1054
+Scotland,,2021-09-17,1037
+Scotland,,2021-09-18,1051
+Scotland,,2021-09-19,1074
+Scotland,,2021-09-20,1088
+Scotland,,2021-09-21,1107
+Scotland,,2021-09-22,1076
+Scotland,,2021-09-23,1057
+Scotland,,2021-09-24,1011
+Scotland,,2021-09-25,1004
+Scotland,,2021-09-26,1003
+Scotland,,2021-09-27,1023
+Scotland,,2021-09-28,1026
+Scotland,,2021-09-29,1020
+Scotland,,2021-09-30,998
+Scotland,,2021-10-01,983
+Scotland,,2021-10-02,965
+Scotland,,2021-10-03,965
+Scotland,,2021-10-04,1001
+Scotland,,2021-10-05,998
+Scotland,,2021-10-06,988
+Scotland,,2021-10-07,980
+Scotland,,2021-10-08,957
+Scotland,,2021-10-09,943
+Scotland,,2021-10-10,935
+Scotland,,2021-10-11,933
+Scotland,,2021-10-12,935
+Scotland,,2021-10-13,918
+Scotland,,2021-10-14,908
+Scotland,,2021-10-15,848
+Scotland,,2021-10-16,841
+Scotland,,2021-10-17,829
+Scotland,,2021-10-18,857
+Scotland,,2021-10-19,869
+Scotland,,2021-10-20,890
+Scotland,,2021-10-21,917
+Scotland,,2021-10-22,894
+Scotland,,2021-10-23,896
+Scotland,,2021-10-24,899
+Scotland,,2021-10-25,902
+Scotland,,2021-10-26,917
+Scotland,,2021-10-27,925
+Scotland,,2021-10-28,932
+Scotland,,2021-10-29,932
+Scotland,,2021-10-30,927
+Scotland,,2021-10-31,910
+Scotland,,2021-11-01,932
+Scotland,,2021-11-02,939
+Scotland,,2021-11-03,942
+Scotland,,2021-11-04,904
+Scotland,,2021-11-05,851
+Scotland,,2021-11-06,832
+Scotland,,2021-11-07,802
+Scotland,,2021-11-08,788
+Scotland,,2021-11-09,764
+Scotland,,2021-11-10,790
+Scotland,,2021-11-11,773
+Scotland,,2021-11-12,759
+Scotland,,2021-11-13,773
+Scotland,,2021-11-14,759
+Scotland,,2021-11-15,771
+Scotland,,2021-11-16,779
+Scotland,,2021-11-17,774
+Scotland,,2021-11-18,786
+Scotland,,2021-11-19,785
+Scotland,,2021-11-20,792
+Scotland,,2021-11-21,752
+Scotland,,2021-11-22,750
+Scotland,,2021-11-23,743
+Scotland,,2021-11-24,708
+Scotland,,2021-11-25,712
+United Kingdom,GBR,2020-03-27,7267
+United Kingdom,GBR,2020-03-28,8278
+United Kingdom,GBR,2020-03-29,9525
+United Kingdom,GBR,2020-03-30,11093
+United Kingdom,GBR,2020-03-31,12597
+United Kingdom,GBR,2020-04-01,13637
+United Kingdom,GBR,2020-04-02,13875
+United Kingdom,GBR,2020-04-03,15546
+United Kingdom,GBR,2020-04-04,17502
+United Kingdom,GBR,2020-04-05,18855
+United Kingdom,GBR,2020-04-06,19493
+United Kingdom,GBR,2020-04-07,20234
+United Kingdom,GBR,2020-04-08,20740
+United Kingdom,GBR,2020-04-09,21005
+United Kingdom,GBR,2020-04-10,21280
+United Kingdom,GBR,2020-04-11,21254
+United Kingdom,GBR,2020-04-12,21687
+United Kingdom,GBR,2020-04-13,21308
+United Kingdom,GBR,2020-04-14,21281
+United Kingdom,GBR,2020-04-15,20582
+United Kingdom,GBR,2020-04-16,20389
+United Kingdom,GBR,2020-04-17,19330
+United Kingdom,GBR,2020-04-18,19456
+United Kingdom,GBR,2020-04-19,19574
+United Kingdom,GBR,2020-04-20,19331
+United Kingdom,GBR,2020-04-21,19139
+United Kingdom,GBR,2020-04-22,18533
+United Kingdom,GBR,2020-04-23,17867
+United Kingdom,GBR,2020-04-24,17063
+United Kingdom,GBR,2020-04-25,16604
+United Kingdom,GBR,2020-04-26,16555
+United Kingdom,GBR,2020-04-27,16662
+United Kingdom,GBR,2020-04-28,15877
+United Kingdom,GBR,2020-04-29,15521
+United Kingdom,GBR,2020-04-30,15164
+United Kingdom,GBR,2020-05-01,14723
+United Kingdom,GBR,2020-05-02,14380
+United Kingdom,GBR,2020-05-03,14188
+United Kingdom,GBR,2020-05-04,14097
+United Kingdom,GBR,2020-05-05,13723
+United Kingdom,GBR,2020-05-06,13148
+United Kingdom,GBR,2020-05-07,12626
+United Kingdom,GBR,2020-05-08,12053
+United Kingdom,GBR,2020-05-09,12015
+United Kingdom,GBR,2020-05-10,11727
+United Kingdom,GBR,2020-05-11,11967
+United Kingdom,GBR,2020-05-12,11591
+United Kingdom,GBR,2020-05-13,11342
+United Kingdom,GBR,2020-05-14,10921
+United Kingdom,GBR,2020-05-15,10691
+United Kingdom,GBR,2020-05-16,10238
+United Kingdom,GBR,2020-05-17,10199
+United Kingdom,GBR,2020-05-18,10231
+United Kingdom,GBR,2020-05-19,10013
+United Kingdom,GBR,2020-05-20,9563
+United Kingdom,GBR,2020-05-21,9293
+United Kingdom,GBR,2020-05-22,9184
+United Kingdom,GBR,2020-05-23,8814
+United Kingdom,GBR,2020-05-24,8814
+United Kingdom,GBR,2020-05-25,8836
+United Kingdom,GBR,2020-05-26,8732
+United Kingdom,GBR,2020-05-27,8220
+United Kingdom,GBR,2020-05-28,7907
+United Kingdom,GBR,2020-05-29,7586
+United Kingdom,GBR,2020-05-30,7268
+United Kingdom,GBR,2020-05-31,7238
+United Kingdom,GBR,2020-06-01,7248
+United Kingdom,GBR,2020-06-02,7087
+United Kingdom,GBR,2020-06-03,6815
+United Kingdom,GBR,2020-06-04,6580
+United Kingdom,GBR,2020-06-05,6379
+United Kingdom,GBR,2020-06-06,6149
+United Kingdom,GBR,2020-06-07,5944
+United Kingdom,GBR,2020-06-08,5931
+United Kingdom,GBR,2020-06-09,5736
+United Kingdom,GBR,2020-06-10,5475
+United Kingdom,GBR,2020-06-11,5179
+United Kingdom,GBR,2020-06-12,5090
+United Kingdom,GBR,2020-06-13,4941
+United Kingdom,GBR,2020-06-14,4908
+United Kingdom,GBR,2020-06-15,4870
+United Kingdom,GBR,2020-06-16,4863
+United Kingdom,GBR,2020-06-17,4719
+United Kingdom,GBR,2020-06-18,4560
+United Kingdom,GBR,2020-06-19,4414
+United Kingdom,GBR,2020-06-20,4252
+United Kingdom,GBR,2020-06-21,4222
+United Kingdom,GBR,2020-06-22,4281
+United Kingdom,GBR,2020-06-23,4134
+United Kingdom,GBR,2020-06-24,4030
+United Kingdom,GBR,2020-06-25,3850
+United Kingdom,GBR,2020-06-26,3620
+United Kingdom,GBR,2020-06-27,3544
+United Kingdom,GBR,2020-06-28,3557
+United Kingdom,GBR,2020-06-29,3748
+United Kingdom,GBR,2020-06-30,3383
+United Kingdom,GBR,2020-07-01,3198
+United Kingdom,GBR,2020-07-02,3079
+United Kingdom,GBR,2020-07-03,2942
+United Kingdom,GBR,2020-07-04,2802
+United Kingdom,GBR,2020-07-05,2741
+United Kingdom,GBR,2020-07-06,2699
+United Kingdom,GBR,2020-07-07,2598
+United Kingdom,GBR,2020-07-08,2454
+United Kingdom,GBR,2020-07-09,2345
+United Kingdom,GBR,2020-07-10,2244
+United Kingdom,GBR,2020-07-11,2119
+United Kingdom,GBR,2020-07-12,2101
+United Kingdom,GBR,2020-07-13,2113
+United Kingdom,GBR,2020-07-14,1993
+United Kingdom,GBR,2020-07-15,1974
+United Kingdom,GBR,2020-07-16,1829
+United Kingdom,GBR,2020-07-17,1804
+United Kingdom,GBR,2020-07-18,1776
+United Kingdom,GBR,2020-07-19,1742
+United Kingdom,GBR,2020-07-20,1734
+United Kingdom,GBR,2020-07-21,1634
+United Kingdom,GBR,2020-07-22,1747
+United Kingdom,GBR,2020-07-23,1538
+United Kingdom,GBR,2020-07-24,1453
+United Kingdom,GBR,2020-07-25,1401
+United Kingdom,GBR,2020-07-26,1383
+United Kingdom,GBR,2020-07-27,1370
+United Kingdom,GBR,2020-07-28,1369
+United Kingdom,GBR,2020-07-29,1350
+United Kingdom,GBR,2020-07-30,1314
+United Kingdom,GBR,2020-07-31,1266
+United Kingdom,GBR,2020-08-01,1290
+United Kingdom,GBR,2020-08-02,1254
+United Kingdom,GBR,2020-08-03,1251
+United Kingdom,GBR,2020-08-04,1216
+United Kingdom,GBR,2020-08-05,1200
+United Kingdom,GBR,2020-08-06,1155
+United Kingdom,GBR,2020-08-07,1094
+United Kingdom,GBR,2020-08-08,1027
+United Kingdom,GBR,2020-08-09,983
+United Kingdom,GBR,2020-08-10,1087
+United Kingdom,GBR,2020-08-11,1039
+United Kingdom,GBR,2020-08-12,1004
+United Kingdom,GBR,2020-08-13,1008
+United Kingdom,GBR,2020-08-14,995
+United Kingdom,GBR,2020-08-15,974
+United Kingdom,GBR,2020-08-16,979
+United Kingdom,GBR,2020-08-17,982
+United Kingdom,GBR,2020-08-18,953
+United Kingdom,GBR,2020-08-19,924
+United Kingdom,GBR,2020-08-20,909
+United Kingdom,GBR,2020-08-21,888
+United Kingdom,GBR,2020-08-22,943
+United Kingdom,GBR,2020-08-23,870
+United Kingdom,GBR,2020-08-24,876
+United Kingdom,GBR,2020-08-25,844
+United Kingdom,GBR,2020-08-26,829
+United Kingdom,GBR,2020-08-27,840
+United Kingdom,GBR,2020-08-28,818
+United Kingdom,GBR,2020-08-29,833
+United Kingdom,GBR,2020-08-30,831
+United Kingdom,GBR,2020-08-31,854
+United Kingdom,GBR,2020-09-01,861
+United Kingdom,GBR,2020-09-02,803
+United Kingdom,GBR,2020-09-03,817
+United Kingdom,GBR,2020-09-04,818
+United Kingdom,GBR,2020-09-05,812
+United Kingdom,GBR,2020-09-06,817
+United Kingdom,GBR,2020-09-07,902
+United Kingdom,GBR,2020-09-08,894
+United Kingdom,GBR,2020-09-09,924
+United Kingdom,GBR,2020-09-10,944
+United Kingdom,GBR,2020-09-11,770
+United Kingdom,GBR,2020-09-12,812
+United Kingdom,GBR,2020-09-13,843
+United Kingdom,GBR,2020-09-14,982
+United Kingdom,GBR,2020-09-15,1066
+United Kingdom,GBR,2020-09-16,1106
+United Kingdom,GBR,2020-09-17,1162
+United Kingdom,GBR,2020-09-18,1221
+United Kingdom,GBR,2020-09-19,1300
+United Kingdom,GBR,2020-09-20,1398
+United Kingdom,GBR,2020-09-21,1558
+United Kingdom,GBR,2020-09-22,1636
+United Kingdom,GBR,2020-09-23,1730
+United Kingdom,GBR,2020-09-24,1846
+United Kingdom,GBR,2020-09-25,2020
+United Kingdom,GBR,2020-09-26,2033
+United Kingdom,GBR,2020-09-27,2188
+United Kingdom,GBR,2020-09-28,2399
+United Kingdom,GBR,2020-09-29,2420
+United Kingdom,GBR,2020-09-30,2530
+United Kingdom,GBR,2020-10-01,2592
+United Kingdom,GBR,2020-10-02,2723
+United Kingdom,GBR,2020-10-03,2867
+United Kingdom,GBR,2020-10-04,3056
+United Kingdom,GBR,2020-10-05,3370
+United Kingdom,GBR,2020-10-06,3642
+United Kingdom,GBR,2020-10-07,3893
+United Kingdom,GBR,2020-10-08,4085
+United Kingdom,GBR,2020-10-09,4170
+United Kingdom,GBR,2020-10-10,4358
+United Kingdom,GBR,2020-10-11,4670
+United Kingdom,GBR,2020-10-12,4959
+United Kingdom,GBR,2020-10-13,5293
+United Kingdom,GBR,2020-10-14,5598
+United Kingdom,GBR,2020-10-15,5933
+United Kingdom,GBR,2020-10-16,6296
+United Kingdom,GBR,2020-10-17,6545
+United Kingdom,GBR,2020-10-18,6829
+United Kingdom,GBR,2020-10-19,7334
+United Kingdom,GBR,2020-10-20,7852
+United Kingdom,GBR,2020-10-21,8132
+United Kingdom,GBR,2020-10-22,8311
+United Kingdom,GBR,2020-10-23,8886
+United Kingdom,GBR,2020-10-24,9262
+United Kingdom,GBR,2020-10-25,9786
+United Kingdom,GBR,2020-10-26,10108
+United Kingdom,GBR,2020-10-27,10938
+United Kingdom,GBR,2020-10-28,11434
+United Kingdom,GBR,2020-10-29,11583
+United Kingdom,GBR,2020-10-30,11788
+United Kingdom,GBR,2020-10-31,12310
+United Kingdom,GBR,2020-11-01,12230
+United Kingdom,GBR,2020-11-02,13105
+United Kingdom,GBR,2020-11-03,13749
+United Kingdom,GBR,2020-11-04,13817
+United Kingdom,GBR,2020-11-05,13796
+United Kingdom,GBR,2020-11-06,13958
+United Kingdom,GBR,2020-11-07,14314
+United Kingdom,GBR,2020-11-08,14546
+United Kingdom,GBR,2020-11-09,15141
+United Kingdom,GBR,2020-11-10,14964
+United Kingdom,GBR,2020-11-11,15666
+United Kingdom,GBR,2020-11-12,15879
+United Kingdom,GBR,2020-11-13,16236
+United Kingdom,GBR,2020-11-14,16299
+United Kingdom,GBR,2020-11-15,16864
+United Kingdom,GBR,2020-11-16,17313
+United Kingdom,GBR,2020-11-17,17439
+United Kingdom,GBR,2020-11-18,17486
+United Kingdom,GBR,2020-11-19,17459
+United Kingdom,GBR,2020-11-20,17184
+United Kingdom,GBR,2020-11-21,17063
+United Kingdom,GBR,2020-11-22,17264
+United Kingdom,GBR,2020-11-23,17680
+United Kingdom,GBR,2020-11-24,17424
+United Kingdom,GBR,2020-11-25,17132
+United Kingdom,GBR,2020-11-26,16762
+United Kingdom,GBR,2020-11-27,16571
+United Kingdom,GBR,2020-11-28,15985
+United Kingdom,GBR,2020-11-29,16313
+United Kingdom,GBR,2020-11-30,16565
+United Kingdom,GBR,2020-12-01,16312
+United Kingdom,GBR,2020-12-02,15977
+United Kingdom,GBR,2020-12-03,15658
+United Kingdom,GBR,2020-12-04,15727
+United Kingdom,GBR,2020-12-05,15688
+United Kingdom,GBR,2020-12-06,15960
+United Kingdom,GBR,2020-12-07,16415
+United Kingdom,GBR,2020-12-08,16477
+United Kingdom,GBR,2020-12-09,16331
+United Kingdom,GBR,2020-12-10,16723
+United Kingdom,GBR,2020-12-11,16885
+United Kingdom,GBR,2020-12-12,16909
+United Kingdom,GBR,2020-12-13,17538
+United Kingdom,GBR,2020-12-14,18246
+United Kingdom,GBR,2020-12-15,18216
+United Kingdom,GBR,2020-12-16,18671
+United Kingdom,GBR,2020-12-17,18970
+United Kingdom,GBR,2020-12-18,19117
+United Kingdom,GBR,2020-12-19,19463
+United Kingdom,GBR,2020-12-20,20004
+United Kingdom,GBR,2020-12-21,21133
+United Kingdom,GBR,2020-12-22,21488
+United Kingdom,GBR,2020-12-23,21222
+United Kingdom,GBR,2020-12-24,21577
+United Kingdom,GBR,2020-12-25,20918
+United Kingdom,GBR,2020-12-26,21730
+United Kingdom,GBR,2020-12-27,22764
+United Kingdom,GBR,2020-12-28,24049
+United Kingdom,GBR,2020-12-29,25549
+United Kingdom,GBR,2020-12-30,26551
+United Kingdom,GBR,2020-12-31,26578
+United Kingdom,GBR,2021-01-01,26389
+United Kingdom,GBR,2021-01-02,27561
+United Kingdom,GBR,2021-01-03,29033
+United Kingdom,GBR,2021-01-04,30775
+United Kingdom,GBR,2021-01-05,30686
+United Kingdom,GBR,2021-01-06,31946
+United Kingdom,GBR,2021-01-07,32583
+United Kingdom,GBR,2021-01-08,33778
+United Kingdom,GBR,2021-01-09,34032
+United Kingdom,GBR,2021-01-10,35391
+United Kingdom,GBR,2021-01-11,36751
+United Kingdom,GBR,2021-01-12,36981
+United Kingdom,GBR,2021-01-13,37487
+United Kingdom,GBR,2021-01-14,37691
+United Kingdom,GBR,2021-01-15,38132
+United Kingdom,GBR,2021-01-16,37715
+United Kingdom,GBR,2021-01-17,38169
+United Kingdom,GBR,2021-01-18,39254
+United Kingdom,GBR,2021-01-19,38846
+United Kingdom,GBR,2021-01-20,38739
+United Kingdom,GBR,2021-01-21,38059
+United Kingdom,GBR,2021-01-22,38257
+United Kingdom,GBR,2021-01-23,37398
+United Kingdom,GBR,2021-01-24,37730
+United Kingdom,GBR,2021-01-25,37756
+United Kingdom,GBR,2021-01-26,37101
+United Kingdom,GBR,2021-01-27,35513
+United Kingdom,GBR,2021-01-28,34909
+United Kingdom,GBR,2021-01-29,33847
+United Kingdom,GBR,2021-01-30,33015
+United Kingdom,GBR,2021-01-31,32586
+United Kingdom,GBR,2021-02-01,32960
+United Kingdom,GBR,2021-02-02,31766
+United Kingdom,GBR,2021-02-03,30604
+United Kingdom,GBR,2021-02-04,29413
+United Kingdom,GBR,2021-02-05,28383
+United Kingdom,GBR,2021-02-06,26914
+United Kingdom,GBR,2021-02-07,26800
+United Kingdom,GBR,2021-02-08,26744
+United Kingdom,GBR,2021-02-09,25689
+United Kingdom,GBR,2021-02-10,24417
+United Kingdom,GBR,2021-02-11,23411
+United Kingdom,GBR,2021-02-12,22324
+United Kingdom,GBR,2021-02-13,20970
+United Kingdom,GBR,2021-02-14,21054
+United Kingdom,GBR,2021-02-15,20994
+United Kingdom,GBR,2021-02-16,20215
+United Kingdom,GBR,2021-02-17,19449
+United Kingdom,GBR,2021-02-18,18522
+United Kingdom,GBR,2021-02-19,17860
+United Kingdom,GBR,2021-02-20,17042
+United Kingdom,GBR,2021-02-21,16857
+United Kingdom,GBR,2021-02-22,16855
+United Kingdom,GBR,2021-02-23,16115
+United Kingdom,GBR,2021-02-24,15534
+United Kingdom,GBR,2021-02-25,14849
+United Kingdom,GBR,2021-02-26,14077
+United Kingdom,GBR,2021-02-27,13269
+United Kingdom,GBR,2021-02-28,12788
+United Kingdom,GBR,2021-03-01,12894
+United Kingdom,GBR,2021-03-02,12139
+United Kingdom,GBR,2021-03-03,11523
+United Kingdom,GBR,2021-03-04,10933
+United Kingdom,GBR,2021-03-05,10312
+United Kingdom,GBR,2021-03-06,9711
+United Kingdom,GBR,2021-03-07,9459
+United Kingdom,GBR,2021-03-08,9474
+United Kingdom,GBR,2021-03-09,9009
+United Kingdom,GBR,2021-03-10,8436
+United Kingdom,GBR,2021-03-11,8066
+United Kingdom,GBR,2021-03-12,7728
+United Kingdom,GBR,2021-03-13,7384
+United Kingdom,GBR,2021-03-14,7315
+United Kingdom,GBR,2021-03-15,7207
+United Kingdom,GBR,2021-03-16,6847
+United Kingdom,GBR,2021-03-17,6585
+United Kingdom,GBR,2021-03-18,6150
+United Kingdom,GBR,2021-03-19,5880
+United Kingdom,GBR,2021-03-20,5567
+United Kingdom,GBR,2021-03-21,5448
+United Kingdom,GBR,2021-03-22,5431
+United Kingdom,GBR,2021-03-23,5150
+United Kingdom,GBR,2021-03-24,4880
+United Kingdom,GBR,2021-03-25,4583
+United Kingdom,GBR,2021-03-26,4485
+United Kingdom,GBR,2021-03-27,4436
+United Kingdom,GBR,2021-03-28,4185
+United Kingdom,GBR,2021-03-29,4197
+United Kingdom,GBR,2021-03-30,3976
+United Kingdom,GBR,2021-03-31,3742
+United Kingdom,GBR,2021-04-01,3557
+United Kingdom,GBR,2021-04-02,3376
+United Kingdom,GBR,2021-04-03,3244
+United Kingdom,GBR,2021-04-04,3229
+United Kingdom,GBR,2021-04-05,3255
+United Kingdom,GBR,2021-04-06,3143
+United Kingdom,GBR,2021-04-07,3019
+United Kingdom,GBR,2021-04-08,2872
+United Kingdom,GBR,2021-04-09,2793
+United Kingdom,GBR,2021-04-10,2650
+United Kingdom,GBR,2021-04-11,2549
+United Kingdom,GBR,2021-04-12,2492
+United Kingdom,GBR,2021-04-13,2408
+United Kingdom,GBR,2021-04-14,2295
+United Kingdom,GBR,2021-04-15,2195
+United Kingdom,GBR,2021-04-16,2140
+United Kingdom,GBR,2021-04-17,2035
+United Kingdom,GBR,2021-04-18,1983
+United Kingdom,GBR,2021-04-19,2007
+United Kingdom,GBR,2021-04-20,1926
+United Kingdom,GBR,2021-04-21,1893
+United Kingdom,GBR,2021-04-22,1791
+United Kingdom,GBR,2021-04-23,1749
+United Kingdom,GBR,2021-04-24,1673
+United Kingdom,GBR,2021-04-25,1626
+United Kingdom,GBR,2021-04-26,1649
+United Kingdom,GBR,2021-04-27,1572
+United Kingdom,GBR,2021-04-28,1515
+United Kingdom,GBR,2021-04-29,1464
+United Kingdom,GBR,2021-04-30,1366
+United Kingdom,GBR,2021-05-01,1287
+United Kingdom,GBR,2021-05-02,1285
+United Kingdom,GBR,2021-05-03,1303
+United Kingdom,GBR,2021-05-04,1295
+United Kingdom,GBR,2021-05-05,1238
+United Kingdom,GBR,2021-05-06,1159
+United Kingdom,GBR,2021-05-07,1157
+United Kingdom,GBR,2021-05-08,1137
+United Kingdom,GBR,2021-05-09,1118
+United Kingdom,GBR,2021-05-10,1129
+United Kingdom,GBR,2021-05-11,1106
+United Kingdom,GBR,2021-05-12,1068
+United Kingdom,GBR,2021-05-13,1001
+United Kingdom,GBR,2021-05-14,976
+United Kingdom,GBR,2021-05-15,966
+United Kingdom,GBR,2021-05-16,941
+United Kingdom,GBR,2021-05-17,943
+United Kingdom,GBR,2021-05-18,898
+United Kingdom,GBR,2021-05-19,918
+United Kingdom,GBR,2021-05-20,912
+United Kingdom,GBR,2021-05-21,922
+United Kingdom,GBR,2021-05-22,887
+United Kingdom,GBR,2021-05-23,924
+United Kingdom,GBR,2021-05-24,960
+United Kingdom,GBR,2021-05-25,921
+United Kingdom,GBR,2021-05-26,895
+United Kingdom,GBR,2021-05-27,872
+United Kingdom,GBR,2021-05-28,886
+United Kingdom,GBR,2021-05-29,887
+United Kingdom,GBR,2021-05-30,907
+United Kingdom,GBR,2021-05-31,929
+United Kingdom,GBR,2021-06-01,930
+United Kingdom,GBR,2021-06-02,961
+United Kingdom,GBR,2021-06-03,938
+United Kingdom,GBR,2021-06-04,965
+United Kingdom,GBR,2021-06-05,938
+United Kingdom,GBR,2021-06-06,964
+United Kingdom,GBR,2021-06-07,1035
+United Kingdom,GBR,2021-06-08,1057
+United Kingdom,GBR,2021-06-09,1064
+United Kingdom,GBR,2021-06-10,1095
+United Kingdom,GBR,2021-06-11,1077
+United Kingdom,GBR,2021-06-12,1106
+United Kingdom,GBR,2021-06-13,1141
+United Kingdom,GBR,2021-06-14,1182
+United Kingdom,GBR,2021-06-15,1233
+United Kingdom,GBR,2021-06-16,1258
+United Kingdom,GBR,2021-06-17,1323
+United Kingdom,GBR,2021-06-18,1365
+United Kingdom,GBR,2021-06-19,1350
+United Kingdom,GBR,2021-06-20,1385
+United Kingdom,GBR,2021-06-21,1519
+United Kingdom,GBR,2021-06-22,1543
+United Kingdom,GBR,2021-06-23,1497
+United Kingdom,GBR,2021-06-24,1518
+United Kingdom,GBR,2021-06-25,1539
+United Kingdom,GBR,2021-06-26,1546
+United Kingdom,GBR,2021-06-27,1607
+United Kingdom,GBR,2021-06-28,1745
+United Kingdom,GBR,2021-06-29,1748
+United Kingdom,GBR,2021-06-30,1827
+United Kingdom,GBR,2021-07-01,1937
+United Kingdom,GBR,2021-07-02,2014
+United Kingdom,GBR,2021-07-03,2058
+United Kingdom,GBR,2021-07-04,2178
+United Kingdom,GBR,2021-07-05,2364
+United Kingdom,GBR,2021-07-06,2486
+United Kingdom,GBR,2021-07-07,2681
+United Kingdom,GBR,2021-07-08,2768
+United Kingdom,GBR,2021-07-09,2939
+United Kingdom,GBR,2021-07-10,3036
+United Kingdom,GBR,2021-07-11,3182
+United Kingdom,GBR,2021-07-12,3458
+United Kingdom,GBR,2021-07-13,3673
+United Kingdom,GBR,2021-07-14,3857
+United Kingdom,GBR,2021-07-15,4038
+United Kingdom,GBR,2021-07-16,4151
+United Kingdom,GBR,2021-07-17,4231
+United Kingdom,GBR,2021-07-18,4347
+United Kingdom,GBR,2021-07-19,4651
+United Kingdom,GBR,2021-07-20,4742
+United Kingdom,GBR,2021-07-21,4930
+United Kingdom,GBR,2021-07-22,5102
+United Kingdom,GBR,2021-07-23,5312
+United Kingdom,GBR,2021-07-24,5379
+United Kingdom,GBR,2021-07-25,5648
+United Kingdom,GBR,2021-07-26,6004
+United Kingdom,GBR,2021-07-27,6097
+United Kingdom,GBR,2021-07-28,6107
+United Kingdom,GBR,2021-07-29,5986
+United Kingdom,GBR,2021-07-30,6019
+United Kingdom,GBR,2021-07-31,5958
+United Kingdom,GBR,2021-08-01,5982
+United Kingdom,GBR,2021-08-02,6215
+United Kingdom,GBR,2021-08-03,6006
+United Kingdom,GBR,2021-08-04,5792
+United Kingdom,GBR,2021-08-05,5755
+United Kingdom,GBR,2021-08-06,5752
+United Kingdom,GBR,2021-08-07,5703
+United Kingdom,GBR,2021-08-08,5857
+United Kingdom,GBR,2021-08-09,6018
+United Kingdom,GBR,2021-08-10,6020
+United Kingdom,GBR,2021-08-11,6005
+United Kingdom,GBR,2021-08-12,5959
+United Kingdom,GBR,2021-08-13,5987
+United Kingdom,GBR,2021-08-14,5884
+United Kingdom,GBR,2021-08-15,6046
+United Kingdom,GBR,2021-08-16,6383
+United Kingdom,GBR,2021-08-17,6407
+United Kingdom,GBR,2021-08-18,6465
+United Kingdom,GBR,2021-08-19,6509
+United Kingdom,GBR,2021-08-20,6520
+United Kingdom,GBR,2021-08-21,6531
+United Kingdom,GBR,2021-08-22,6749
+United Kingdom,GBR,2021-08-23,7019
+United Kingdom,GBR,2021-08-24,6961
+United Kingdom,GBR,2021-08-25,6986
+United Kingdom,GBR,2021-08-26,7031
+United Kingdom,GBR,2021-08-27,7084
+United Kingdom,GBR,2021-08-28,6979
+United Kingdom,GBR,2021-08-29,7110
+United Kingdom,GBR,2021-08-30,7339
+United Kingdom,GBR,2021-08-31,7677
+United Kingdom,GBR,2021-09-01,7681
+United Kingdom,GBR,2021-09-02,7621
+United Kingdom,GBR,2021-09-03,7670
+United Kingdom,GBR,2021-09-04,7555
+United Kingdom,GBR,2021-09-05,7750
+United Kingdom,GBR,2021-09-06,8036
+United Kingdom,GBR,2021-09-07,7980
+United Kingdom,GBR,2021-09-08,8136
+United Kingdom,GBR,2021-09-09,8145
+United Kingdom,GBR,2021-09-10,8316
+United Kingdom,GBR,2021-09-11,8144
+United Kingdom,GBR,2021-09-12,8254
+United Kingdom,GBR,2021-09-13,8477
+United Kingdom,GBR,2021-09-14,8400
+United Kingdom,GBR,2021-09-15,8406
+United Kingdom,GBR,2021-09-16,8123
+United Kingdom,GBR,2021-09-17,7916
+United Kingdom,GBR,2021-09-18,7706
+United Kingdom,GBR,2021-09-19,7758
+United Kingdom,GBR,2021-09-20,7810
+United Kingdom,GBR,2021-09-21,7637
+United Kingdom,GBR,2021-09-22,7430
+United Kingdom,GBR,2021-09-23,7180
+United Kingdom,GBR,2021-09-24,6929
+United Kingdom,GBR,2021-09-25,6975
+United Kingdom,GBR,2021-09-26,6836
+United Kingdom,GBR,2021-09-27,7067
+United Kingdom,GBR,2021-09-28,7050
+United Kingdom,GBR,2021-09-29,6936
+United Kingdom,GBR,2021-09-30,6792
+United Kingdom,GBR,2021-10-01,6623
+United Kingdom,GBR,2021-10-02,6475
+United Kingdom,GBR,2021-10-03,6632
+United Kingdom,GBR,2021-10-04,6822
+United Kingdom,GBR,2021-10-05,6898
+United Kingdom,GBR,2021-10-06,6883
+United Kingdom,GBR,2021-10-07,6832
+United Kingdom,GBR,2021-10-08,6810
+United Kingdom,GBR,2021-10-09,6754
+United Kingdom,GBR,2021-10-10,6926
+United Kingdom,GBR,2021-10-11,7080
+United Kingdom,GBR,2021-10-12,7108
+United Kingdom,GBR,2021-10-13,7122
+United Kingdom,GBR,2021-10-14,7180
+United Kingdom,GBR,2021-10-15,7192
+United Kingdom,GBR,2021-10-16,7218
+United Kingdom,GBR,2021-10-17,7489
+United Kingdom,GBR,2021-10-18,7857
+United Kingdom,GBR,2021-10-19,8005
+United Kingdom,GBR,2021-10-20,8261
+United Kingdom,GBR,2021-10-21,8355
+United Kingdom,GBR,2021-10-22,8338
+United Kingdom,GBR,2021-10-23,8331
+United Kingdom,GBR,2021-10-24,8500
+United Kingdom,GBR,2021-10-25,8823
+United Kingdom,GBR,2021-10-26,8939
+United Kingdom,GBR,2021-10-27,9043
+United Kingdom,GBR,2021-10-28,9121
+United Kingdom,GBR,2021-10-29,9216
+United Kingdom,GBR,2021-10-30,9267
+United Kingdom,GBR,2021-10-31,9422
+United Kingdom,GBR,2021-11-01,9665
+United Kingdom,GBR,2021-11-02,9648
+United Kingdom,GBR,2021-11-03,9431
+United Kingdom,GBR,2021-11-04,9284
+United Kingdom,GBR,2021-11-05,9083
+United Kingdom,GBR,2021-11-06,8837
+United Kingdom,GBR,2021-11-07,8857
+United Kingdom,GBR,2021-11-08,9005
+United Kingdom,GBR,2021-11-09,8953
+United Kingdom,GBR,2021-11-10,8880
+United Kingdom,GBR,2021-11-11,8727
+United Kingdom,GBR,2021-11-12,8632
+United Kingdom,GBR,2021-11-13,8496
+United Kingdom,GBR,2021-11-14,8580
+United Kingdom,GBR,2021-11-15,8737
+United Kingdom,GBR,2021-11-16,8457
+United Kingdom,GBR,2021-11-17,8207
+United Kingdom,GBR,2021-11-18,8105
+United Kingdom,GBR,2021-11-19,8053
+United Kingdom,GBR,2021-11-20,7927
+United Kingdom,GBR,2021-11-21,8021
+United Kingdom,GBR,2021-11-22,8114
+United Kingdom,GBR,2021-11-23,7893
+United Kingdom,GBR,2021-11-24,7641
+Wales,,2020-03-23,110
+Wales,,2020-03-24,150
+Wales,,2020-03-25,188
+Wales,,2020-03-26,203
+Wales,,2020-03-27,243
+Wales,,2020-03-28,310
+Wales,,2020-03-29,329
+Wales,,2020-03-30,387
+Wales,,2020-03-31,439
+Wales,,2020-04-01,483
+Wales,,2020-04-02,525
+Wales,,2020-04-03,568
+Wales,,2020-04-04,596
+Wales,,2020-04-05,664
+Wales,,2020-04-06,731
+Wales,,2020-04-07,738
+Wales,,2020-04-08,816
+Wales,,2020-04-09,795
+Wales,,2020-04-10,833
+Wales,,2020-04-11,865
+Wales,,2020-04-12,910
+Wales,,2020-04-13,897
+Wales,,2020-04-14,919
+Wales,,2020-04-15,884
+Wales,,2020-04-16,844
+Wales,,2020-04-17,825
+Wales,,2020-04-18,818
+Wales,,2020-04-19,828
+Wales,,2020-04-20,853
+Wales,,2020-04-21,838
+Wales,,2020-04-22,773
+Wales,,2020-04-23,741
+Wales,,2020-04-24,743
+Wales,,2020-04-25,719
+Wales,,2020-04-26,710
+Wales,,2020-04-27,734
+Wales,,2020-04-28,676
+Wales,,2020-04-29,664
+Wales,,2020-04-30,643
+Wales,,2020-05-01,529
+Wales,,2020-05-02,521
+Wales,,2020-05-03,539
+Wales,,2020-05-04,538
+Wales,,2020-05-05,501
+Wales,,2020-05-06,478
+Wales,,2020-05-07,470
+Wales,,2020-05-08,416
+Wales,,2020-05-09,448
+Wales,,2020-05-10,461
+Wales,,2020-05-11,465
+Wales,,2020-05-12,425
+Wales,,2020-05-13,394
+Wales,,2020-05-14,364
+Wales,,2020-05-15,336
+Wales,,2020-05-16,378
+Wales,,2020-05-17,373
+Wales,,2020-05-18,356
+Wales,,2020-05-19,329
+Wales,,2020-05-20,324
+Wales,,2020-05-21,309
+Wales,,2020-05-22,385
+Wales,,2020-05-23,383
+Wales,,2020-05-24,393
+Wales,,2020-05-25,380
+Wales,,2020-05-26,436
+Wales,,2020-05-27,425
+Wales,,2020-05-28,438
+Wales,,2020-05-29,431
+Wales,,2020-05-30,423
+Wales,,2020-05-31,433
+Wales,,2020-06-01,431
+Wales,,2020-06-02,427
+Wales,,2020-06-03,399
+Wales,,2020-06-04,395
+Wales,,2020-06-05,392
+Wales,,2020-06-06,404
+Wales,,2020-06-07,383
+Wales,,2020-06-08,352
+Wales,,2020-06-09,341
+Wales,,2020-06-10,319
+Wales,,2020-06-11,315
+Wales,,2020-06-12,294
+Wales,,2020-06-13,291
+Wales,,2020-06-14,293
+Wales,,2020-06-15,306
+Wales,,2020-06-16,303
+Wales,,2020-06-17,288
+Wales,,2020-06-18,285
+Wales,,2020-06-19,276
+Wales,,2020-06-20,271
+Wales,,2020-06-21,280
+Wales,,2020-06-22,297
+Wales,,2020-06-23,281
+Wales,,2020-06-24,270
+Wales,,2020-06-25,265
+Wales,,2020-06-26,254
+Wales,,2020-06-27,232
+Wales,,2020-06-28,246
+Wales,,2020-06-29,235
+Wales,,2020-06-30,234
+Wales,,2020-07-01,218
+Wales,,2020-07-02,206
+Wales,,2020-07-03,198
+Wales,,2020-07-04,190
+Wales,,2020-07-05,187
+Wales,,2020-07-06,186
+Wales,,2020-07-07,181
+Wales,,2020-07-08,177
+Wales,,2020-07-09,172
+Wales,,2020-07-10,133
+Wales,,2020-07-11,127
+Wales,,2020-07-12,133
+Wales,,2020-07-13,140
+Wales,,2020-07-14,136
+Wales,,2020-07-15,131
+Wales,,2020-07-16,136
+Wales,,2020-07-17,119
+Wales,,2020-07-18,125
+Wales,,2020-07-19,113
+Wales,,2020-07-20,130
+Wales,,2020-07-21,118
+Wales,,2020-07-22,123
+Wales,,2020-07-23,132
+Wales,,2020-07-24,132
+Wales,,2020-07-25,129
+Wales,,2020-07-26,127
+Wales,,2020-07-27,130
+Wales,,2020-07-28,136
+Wales,,2020-07-29,137
+Wales,,2020-07-30,132
+Wales,,2020-07-31,116
+Wales,,2020-08-01,124
+Wales,,2020-08-02,116
+Wales,,2020-08-03,119
+Wales,,2020-08-04,115
+Wales,,2020-08-05,105
+Wales,,2020-08-06,103
+Wales,,2020-08-07,96
+Wales,,2020-08-08,88
+Wales,,2020-08-09,82
+Wales,,2020-08-10,78
+Wales,,2020-08-11,69
+Wales,,2020-08-12,69
+Wales,,2020-08-13,68
+Wales,,2020-08-14,70
+Wales,,2020-08-15,69
+Wales,,2020-08-16,71
+Wales,,2020-08-17,71
+Wales,,2020-08-18,61
+Wales,,2020-08-19,60
+Wales,,2020-08-20,59
+Wales,,2020-08-21,55
+Wales,,2020-08-22,52
+Wales,,2020-08-23,51
+Wales,,2020-08-24,50
+Wales,,2020-08-25,48
+Wales,,2020-08-26,48
+Wales,,2020-08-27,41
+Wales,,2020-08-28,41
+Wales,,2020-08-29,42
+Wales,,2020-08-30,47
+Wales,,2020-08-31,42
+Wales,,2020-09-01,43
+Wales,,2020-09-02,42
+Wales,,2020-09-03,38
+Wales,,2020-09-04,35
+Wales,,2020-09-05,39
+Wales,,2020-09-06,36
+Wales,,2020-09-07,38
+Wales,,2020-09-08,35
+Wales,,2020-09-09,37
+Wales,,2020-09-10,48
+Wales,,2020-09-11,42
+Wales,,2020-09-12,42
+Wales,,2020-09-13,36
+Wales,,2020-09-14,45
+Wales,,2020-09-15,53
+Wales,,2020-09-16,54
+Wales,,2020-09-17,55
+Wales,,2020-09-18,68
+Wales,,2020-09-19,82
+Wales,,2020-09-20,82
+Wales,,2020-09-21,99
+Wales,,2020-09-22,93
+Wales,,2020-09-23,111
+Wales,,2020-09-24,115
+Wales,,2020-09-25,145
+Wales,,2020-09-26,136
+Wales,,2020-09-27,172
+Wales,,2020-09-28,188
+Wales,,2020-09-29,205
+Wales,,2020-09-30,211
+Wales,,2020-10-01,214
+Wales,,2020-10-02,218
+Wales,,2020-10-03,220
+Wales,,2020-10-04,230
+Wales,,2020-10-05,249
+Wales,,2020-10-06,261
+Wales,,2020-10-07,277
+Wales,,2020-10-08,284
+Wales,,2020-10-09,291
+Wales,,2020-10-10,292
+Wales,,2020-10-11,327
+Wales,,2020-10-12,348
+Wales,,2020-10-13,345
+Wales,,2020-10-14,384
+Wales,,2020-10-15,414
+Wales,,2020-10-16,442
+Wales,,2020-10-17,437
+Wales,,2020-10-18,482
+Wales,,2020-10-19,491
+Wales,,2020-10-20,492
+Wales,,2020-10-21,524
+Wales,,2020-10-22,550
+Wales,,2020-10-23,571
+Wales,,2020-10-24,575
+Wales,,2020-10-25,612
+Wales,,2020-10-26,654
+Wales,,2020-10-27,685
+Wales,,2020-10-28,695
+Wales,,2020-10-29,739
+Wales,,2020-10-30,762
+Wales,,2020-10-31,794
+Wales,,2020-11-01,809
+Wales,,2020-11-02,866
+Wales,,2020-11-03,900
+Wales,,2020-11-04,914
+Wales,,2020-11-05,946
+Wales,,2020-11-06,945
+Wales,,2020-11-07,953
+Wales,,2020-11-08,992
+Wales,,2020-11-09,1030
+Wales,,2020-11-10,1044
+Wales,,2020-11-11,1054
+Wales,,2020-11-12,1066
+Wales,,2020-11-13,1060
+Wales,,2020-11-14,1080
+Wales,,2020-11-15,1104
+Wales,,2020-11-16,1127
+Wales,,2020-11-17,1143
+Wales,,2020-11-18,1121
+Wales,,2020-11-19,1140
+Wales,,2020-11-20,1100
+Wales,,2020-11-21,1125
+Wales,,2020-11-22,1105
+Wales,,2020-11-23,1150
+Wales,,2020-11-24,1114
+Wales,,2020-11-25,1128
+Wales,,2020-11-26,1134
+Wales,,2020-11-27,1129
+Wales,,2020-11-28,1106
+Wales,,2020-11-29,1125
+Wales,,2020-11-30,1151
+Wales,,2020-12-01,1171
+Wales,,2020-12-02,1180
+Wales,,2020-12-03,1187
+Wales,,2020-12-04,1175
+Wales,,2020-12-05,1167
+Wales,,2020-12-06,1199
+Wales,,2020-12-07,1208
+Wales,,2020-12-08,1231
+Wales,,2020-12-09,1280
+Wales,,2020-12-10,1328
+Wales,,2020-12-11,1385
+Wales,,2020-12-12,1370
+Wales,,2020-12-13,1425
+Wales,,2020-12-14,1529
+Wales,,2020-12-15,1525
+Wales,,2020-12-16,1513
+Wales,,2020-12-17,1573
+Wales,,2020-12-18,1585
+Wales,,2020-12-19,1605
+Wales,,2020-12-20,1652
+Wales,,2020-12-21,1683
+Wales,,2020-12-22,1727
+Wales,,2020-12-23,1720
+Wales,,2020-12-24,1712
+Wales,,2020-12-25,1597
+Wales,,2020-12-26,1716
+Wales,,2020-12-27,1782
+Wales,,2020-12-28,1843
+Wales,,2020-12-29,1892
+Wales,,2020-12-30,1901
+Wales,,2020-12-31,1880
+Wales,,2021-01-01,1838
+Wales,,2021-01-02,1937
+Wales,,2021-01-03,1937
+Wales,,2021-01-04,1966
+Wales,,2021-01-05,1964
+Wales,,2021-01-06,1914
+Wales,,2021-01-07,1940
+Wales,,2021-01-08,1936
+Wales,,2021-01-09,1975
+Wales,,2021-01-10,1983
+Wales,,2021-01-11,1970
+Wales,,2021-01-12,2009
+Wales,,2021-01-13,1949
+Wales,,2021-01-14,1881
+Wales,,2021-01-15,1872
+Wales,,2021-01-16,1860
+Wales,,2021-01-17,1853
+Wales,,2021-01-18,1931
+Wales,,2021-01-19,1840
+Wales,,2021-01-20,1867
+Wales,,2021-01-21,1832
+Wales,,2021-01-22,1823
+Wales,,2021-01-23,1784
+Wales,,2021-01-24,1816
+Wales,,2021-01-25,1832
+Wales,,2021-01-26,1809
+Wales,,2021-01-27,1745
+Wales,,2021-01-28,1722
+Wales,,2021-01-29,1686
+Wales,,2021-01-30,1643
+Wales,,2021-01-31,1678
+Wales,,2021-02-01,1638
+Wales,,2021-02-02,1638
+Wales,,2021-02-03,1598
+Wales,,2021-02-04,1544
+Wales,,2021-02-05,1507
+Wales,,2021-02-06,1470
+Wales,,2021-02-07,1424
+Wales,,2021-02-08,1413
+Wales,,2021-02-09,1392
+Wales,,2021-02-10,1366
+Wales,,2021-02-11,1371
+Wales,,2021-02-12,1317
+Wales,,2021-02-13,1302
+Wales,,2021-02-14,1294
+Wales,,2021-02-15,1312
+Wales,,2021-02-16,1246
+Wales,,2021-02-17,1199
+Wales,,2021-02-18,1165
+Wales,,2021-02-19,1171
+Wales,,2021-02-20,1122
+Wales,,2021-02-21,1137
+Wales,,2021-02-22,1149
+Wales,,2021-02-23,1116
+Wales,,2021-02-24,1119
+Wales,,2021-02-25,1057
+Wales,,2021-02-26,1023
+Wales,,2021-02-27,935
+Wales,,2021-02-28,946
+Wales,,2021-03-01,971
+Wales,,2021-03-02,924
+Wales,,2021-03-03,891
+Wales,,2021-03-04,846
+Wales,,2021-03-05,793
+Wales,,2021-03-06,793
+Wales,,2021-03-07,758
+Wales,,2021-03-08,712
+Wales,,2021-03-09,700
+Wales,,2021-03-10,658
+Wales,,2021-03-11,634
+Wales,,2021-03-12,611
+Wales,,2021-03-13,614
+Wales,,2021-03-14,599
+Wales,,2021-03-15,576
+Wales,,2021-03-16,540
+Wales,,2021-03-17,557
+Wales,,2021-03-18,459
+Wales,,2021-03-19,445
+Wales,,2021-03-20,415
+Wales,,2021-03-21,415
+Wales,,2021-03-22,394
+Wales,,2021-03-23,382
+Wales,,2021-03-24,373
+Wales,,2021-03-25,344
+Wales,,2021-03-26,322
+Wales,,2021-03-27,320
+Wales,,2021-03-28,322
+Wales,,2021-03-29,320
+Wales,,2021-03-30,306
+Wales,,2021-03-31,290
+Wales,,2021-04-01,281
+Wales,,2021-04-02,257
+Wales,,2021-04-03,243
+Wales,,2021-04-04,242
+Wales,,2021-04-05,257
+Wales,,2021-04-06,243
+Wales,,2021-04-07,225
+Wales,,2021-04-08,207
+Wales,,2021-04-09,209
+Wales,,2021-04-10,202
+Wales,,2021-04-11,208
+Wales,,2021-04-12,142
+Wales,,2021-04-13,133
+Wales,,2021-04-14,124
+Wales,,2021-04-15,117
+Wales,,2021-04-16,106
+Wales,,2021-04-17,115
+Wales,,2021-04-18,109
+Wales,,2021-04-19,97
+Wales,,2021-04-20,101
+Wales,,2021-04-21,101
+Wales,,2021-04-22,101
+Wales,,2021-04-23,103
+Wales,,2021-04-24,103
+Wales,,2021-04-25,81
+Wales,,2021-04-26,86
+Wales,,2021-04-27,102
+Wales,,2021-04-28,83
+Wales,,2021-04-29,86
+Wales,,2021-04-30,62
+Wales,,2021-05-01,73
+Wales,,2021-05-02,60
+Wales,,2021-05-03,62
+Wales,,2021-05-04,66
+Wales,,2021-05-05,63
+Wales,,2021-05-06,56
+Wales,,2021-05-07,54
+Wales,,2021-05-08,62
+Wales,,2021-05-09,53
+Wales,,2021-05-10,49
+Wales,,2021-05-11,57
+Wales,,2021-05-12,42
+Wales,,2021-05-13,44
+Wales,,2021-05-14,48
+Wales,,2021-05-15,42
+Wales,,2021-05-16,38
+Wales,,2021-05-17,35
+Wales,,2021-05-18,38
+Wales,,2021-05-19,41
+Wales,,2021-05-20,42
+Wales,,2021-05-21,39
+Wales,,2021-05-22,31
+Wales,,2021-05-23,32
+Wales,,2021-05-24,34
+Wales,,2021-05-25,26
+Wales,,2021-05-26,20
+Wales,,2021-05-27,17
+Wales,,2021-05-28,21
+Wales,,2021-05-29,20
+Wales,,2021-05-30,20
+Wales,,2021-05-31,20
+Wales,,2021-06-01,20
+Wales,,2021-06-02,22
+Wales,,2021-06-03,24
+Wales,,2021-06-04,22
+Wales,,2021-06-05,22
+Wales,,2021-06-06,22
+Wales,,2021-06-07,27
+Wales,,2021-06-08,30
+Wales,,2021-06-09,39
+Wales,,2021-06-10,41
+Wales,,2021-06-11,37
+Wales,,2021-06-12,40
+Wales,,2021-06-13,44
+Wales,,2021-06-14,41
+Wales,,2021-06-15,44
+Wales,,2021-06-16,45
+Wales,,2021-06-17,38
+Wales,,2021-06-18,44
+Wales,,2021-06-19,40
+Wales,,2021-06-20,45
+Wales,,2021-06-21,46
+Wales,,2021-06-22,44
+Wales,,2021-06-23,42
+Wales,,2021-06-24,38
+Wales,,2021-06-25,38
+Wales,,2021-06-26,40
+Wales,,2021-06-27,42
+Wales,,2021-06-28,36
+Wales,,2021-06-29,41
+Wales,,2021-06-30,39
+Wales,,2021-07-01,44
+Wales,,2021-07-02,50
+Wales,,2021-07-03,46
+Wales,,2021-07-04,43
+Wales,,2021-07-05,60
+Wales,,2021-07-06,58
+Wales,,2021-07-07,57
+Wales,,2021-07-08,61
+Wales,,2021-07-09,65
+Wales,,2021-07-10,66
+Wales,,2021-07-11,62
+Wales,,2021-07-12,67
+Wales,,2021-07-13,67
+Wales,,2021-07-14,81
+Wales,,2021-07-15,88
+Wales,,2021-07-16,85
+Wales,,2021-07-17,92
+Wales,,2021-07-18,89
+Wales,,2021-07-19,100
+Wales,,2021-07-20,103
+Wales,,2021-07-21,107
+Wales,,2021-07-22,120
+Wales,,2021-07-23,129
+Wales,,2021-07-24,133
+Wales,,2021-07-25,128
+Wales,,2021-07-26,145
+Wales,,2021-07-27,142
+Wales,,2021-07-28,144
+Wales,,2021-07-29,138
+Wales,,2021-07-30,140
+Wales,,2021-07-31,144
+Wales,,2021-08-01,147
+Wales,,2021-08-02,159
+Wales,,2021-08-03,148
+Wales,,2021-08-04,133
+Wales,,2021-08-05,130
+Wales,,2021-08-06,133
+Wales,,2021-08-07,130
+Wales,,2021-08-08,138
+Wales,,2021-08-09,144
+Wales,,2021-08-10,143
+Wales,,2021-08-11,139
+Wales,,2021-08-12,131
+Wales,,2021-08-13,133
+Wales,,2021-08-14,133
+Wales,,2021-08-15,140
+Wales,,2021-08-16,144
+Wales,,2021-08-17,152
+Wales,,2021-08-18,162
+Wales,,2021-08-19,182
+Wales,,2021-08-20,192
+Wales,,2021-08-21,184
+Wales,,2021-08-22,196
+Wales,,2021-08-23,205
+Wales,,2021-08-24,216
+Wales,,2021-08-25,217
+Wales,,2021-08-26,240
+Wales,,2021-08-27,242
+Wales,,2021-08-28,255
+Wales,,2021-08-29,264
+Wales,,2021-08-30,287
+Wales,,2021-08-31,302
+Wales,,2021-09-01,313
+Wales,,2021-09-02,322
+Wales,,2021-09-03,331
+Wales,,2021-09-04,339
+Wales,,2021-09-05,349
+Wales,,2021-09-06,369
+Wales,,2021-09-07,404
+Wales,,2021-09-08,428
+Wales,,2021-09-09,446
+Wales,,2021-09-10,450
+Wales,,2021-09-11,457
+Wales,,2021-09-12,477
+Wales,,2021-09-13,500
+Wales,,2021-09-14,505
+Wales,,2021-09-15,529
+Wales,,2021-09-16,514
+Wales,,2021-09-17,512
+Wales,,2021-09-18,506
+Wales,,2021-09-19,518
+Wales,,2021-09-20,532
+Wales,,2021-09-21,520
+Wales,,2021-09-22,496
+Wales,,2021-09-23,480
+Wales,,2021-09-24,469
+Wales,,2021-09-25,450
+Wales,,2021-09-26,454
+Wales,,2021-09-27,494
+Wales,,2021-09-28,477
+Wales,,2021-09-29,480
+Wales,,2021-09-30,463
+Wales,,2021-10-01,438
+Wales,,2021-10-02,451
+Wales,,2021-10-03,470
+Wales,,2021-10-04,491
+Wales,,2021-10-05,470
+Wales,,2021-10-06,461
+Wales,,2021-10-07,461
+Wales,,2021-10-08,461
+Wales,,2021-10-09,460
+Wales,,2021-10-10,476
+Wales,,2021-10-11,496
+Wales,,2021-10-12,516
+Wales,,2021-10-13,515
+Wales,,2021-10-14,541
+Wales,,2021-10-15,540
+Wales,,2021-10-16,552
+Wales,,2021-10-17,575
+Wales,,2021-10-18,590
+Wales,,2021-10-19,569
+Wales,,2021-10-20,596
+Wales,,2021-10-21,597
+Wales,,2021-10-22,585
+Wales,,2021-10-23,590
+Wales,,2021-10-24,606
+Wales,,2021-10-25,632
+Wales,,2021-10-26,658
+Wales,,2021-10-27,689
+Wales,,2021-10-28,687
+Wales,,2021-10-29,686
+Wales,,2021-10-30,681
+Wales,,2021-10-31,686
+Wales,,2021-11-01,691
+Wales,,2021-11-02,697
+Wales,,2021-11-03,707
+Wales,,2021-11-04,686
+Wales,,2021-11-05,666
+Wales,,2021-11-06,640
+Wales,,2021-11-07,647
+Wales,,2021-11-08,654
+Wales,,2021-11-09,649
+Wales,,2021-11-10,641
+Wales,,2021-11-11,621
+Wales,,2021-11-12,623
+Wales,,2021-11-13,594
+Wales,,2021-11-14,616
+Wales,,2021-11-15,625
+Wales,,2021-11-16,594
+Wales,,2021-11-17,569
+Wales,,2021-11-18,547
+Wales,,2021-11-19,536
+Wales,,2021-11-20,526
+Wales,,2021-11-21,520
+Wales,,2021-11-22,524
+Wales,,2021-11-23,488
+Wales,,2021-11-24,476
